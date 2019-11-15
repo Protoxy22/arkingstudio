@@ -233,8 +233,8 @@
           "name": "Minegrounds - Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 32596800,
-            "MD5": "f32808201ef7118950149d5576e8b3cc",
+            "size": 32596702,
+            "MD5": "d30d1194950d10a1536730bd4caa0f1e",
             "url": "https://minegrounds.eu/launcher/files/mods/minegrounds-1.0.jar"
           }
         },
@@ -256,16 +256,6 @@
             "size": 16146,
             "MD5": "fe6c57af5be36a9ed96f8ff7de61bbd1",
             "url": "https://minegrounds.eu/launcher/files/mods/Blur-1.0.4-14.jar"
-          }
-        },
-        {
-          "id": "Roads:roads:1.1.0",
-          "name": "Roads",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2818901,
-            "MD5": "a43bd49d4278a900bf56ee7ca73bc6f9",
-            "url": "https://minegrounds.eu/launcher/files/mods/Furenikus_Roads-1.1.0-beta-1.jar"
           }
         },
         {
