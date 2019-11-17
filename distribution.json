@@ -249,16 +249,6 @@
           }
         },
         {
-          "id": "Blur:blur:1.0.4",
-          "name": "Blur",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 16146,
-            "MD5": "fe6c57af5be36a9ed96f8ff7de61bbd1",
-            "url": "https://minegrounds.eu/launcher/files/mods/Blur-1.0.4-14.jar"
-          }
-        },
-        {
           "id": "EngineersDecor:eg:1.0.9",
           "name": "EngineersDecor",
           "type": "ForgeMod",
