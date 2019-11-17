@@ -1202,7 +1202,7 @@
           "name": "ArkaniaZMenu",
           "type": "ForgeMod",
           "artifact": {
-            "size": 16187318,
+            "size": 16187466,
             "MD5": "82e3535db9f91c3ab02b6071ad207ecb",
             "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZMenu.jar"
           }
@@ -1213,7 +1213,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12333818,
-            "MD5": "63470653de9d3b2a3337a5c67dbee65c",
+            "MD5": "78f00bc21d90cb499d39c3bcdfd3c43a",
             "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZMod.jar"
           }
         },
