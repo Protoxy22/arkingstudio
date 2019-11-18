@@ -293,8 +293,8 @@
           "name": "ModularWarfare",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2105990,
-            "MD5": "25d8e7fc40687f4157d292171ee27c05",
+            "size": 2112437,
+            "MD5": "57073b024afc5610b4ed3d9fa1869514",
             "url": "https://minegrounds.eu/launcher/files/mods/modularwarfare-0.2.jar"
           }
         },
@@ -944,9 +944,9 @@
           "name": "officialmw-contentpack",
           "type": "File",
           "artifact": {
-            "size": "7699328",
+            "size": "7880375",
             "path": "ModularWarfare/officialmw.zip",
-            "MD5": "60044ac9728962f805493dde349047b7",
+            "MD5": "33e71dcdf1bb57add37db875025ef095",
             "url": "https://minegrounds.eu/launcher/files/ModularWarfare/officialmw.zip"
           }
         },
