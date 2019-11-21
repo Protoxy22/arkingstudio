@@ -1382,9 +1382,9 @@
           "name": "config-minimap",
           "type": "File",
           "artifact": {
-            "size": 23100888,
+            "size": 23159438,
             "path": "Modularwarfare/arkaniaz-pack.zip",
-            "MD5": "e0590d9b4714bf740d3af5d878cf3282",
+            "MD5": "a6b3438bab4b4cc6af420b627cc7ba36",
             "url": "https://launcher.arkaniaz.fr/arkaniaz2/arkaniaz-pack.zip"
           }
         },
