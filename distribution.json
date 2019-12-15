@@ -1208,6 +1208,16 @@
           }
         },
         {
+          "id": "ArkaniaZ:ArkaniaZVocal:1.0",
+          "name": "ArkaniaZVocal",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 445000,
+            "MD5": "d8bb047f700fca6ac08a88f9abb45d82",
+            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZVocal.jar"
+          }
+        },
+        {
           "id": "ArkaniaZ:ArkaniaZMod:1.0",
           "name": "ArkaniaZMod",
           "type": "ForgeMod",
