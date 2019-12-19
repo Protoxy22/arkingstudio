@@ -1222,8 +1222,8 @@
           "name": "ArkaniaZMod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12435073,
-            "MD5": "e2e6d8bb85cee5ef54f9d8be85c0b02c",
+            "size": 15543354,
+            "MD5": "ed049c5f0871f8d98c58a17d0622a921",
             "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZMod.jar"
           }
         },
@@ -1235,16 +1235,6 @@
             "size": 236435,
             "MD5": "575669bf0854451ca8e0d2a80869b0c9",
             "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/backpack.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:furniture:1.0",
-          "name": "ArkaniaZ - furniture",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2435626,
-            "MD5": "7e4f4d160032658e095eff8221977800",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/furniture.jar"
           }
         },
         {
