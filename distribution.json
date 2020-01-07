@@ -1194,18 +1194,18 @@
                         "MD5":"6eb9e61097bee3103a2fdc42746b76a4",
                         "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
                      }
-                  },
-                  {
-                     "id":"PokiCube:Pixelmon:1.0",
-                     "name":"Pokicube - reforged",
-                     "type":"ForgeMod",
-                     "artifact":{
-                        "size":352390414,
-                        "MD5":"84bf6e5dffb193954119040a15bf5ce9",
-                        "url":"https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.12.2-7.1.1-universal.jar"
-                     }
                   }
                ]
+            },
+            {
+               "id":"PokiCube:Pixelmon:1.0",
+               "name":"Pokicube",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":352390414,
+                  "MD5":"84bf6e5dffb193954119040a15bf5ce9",
+                  "url":"https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.12.2-7.1.1-universal.jar"
+               }
             }
          ]
       },
