@@ -10,7 +10,7 @@
       "name": "Minegrounds Mod",
       "description": "Serveur Minegrounds (Gunbox, Battlegrounds)",
       "icon": "https://minegrounds.eu/assets/img/SmallLogo.png",
-      "version": "Ouverture le Samedi 16 Novembre à 17h.",
+      "version": "0.4.1",
       "address": "minegrounds.eu",
       "minecraftVersion": "1.12.2",
       "mainServer": false,
