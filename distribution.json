@@ -1,1640 +1,1640 @@
 {
-  "version": "0.0.1",
-  "java": {
-    "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
-  },
-  "rss": "https://studio.arking.fr/launcher/news.rss",
-  "servers": [
-    {
-      "id": "minegrounds",
-      "name": "Minegrounds Mod",
-      "description": "Serveur Minegrounds (Gunbox, Battlegrounds)",
-      "icon": "https://minegrounds.eu/assets/img/SmallLogo.png",
-      "version": "0.4.1",
-      "address": "minegrounds.eu",
-      "minecraftVersion": "1.12.2",
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2838",
-          "name": "Minecraft Forge",
-          "type": "ForgeHosted",
-          "artifact": {
-            "size": 5035170,
-            "MD5": "8112748766BA92310141FEF972FC1AE6",
-            "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar"
-          },
-          "subModules": [
+   "version":"0.0.1",
+   "java":{
+      "oracle":"http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+   },
+   "rss":"https://studio.arking.fr/launcher/news.rss",
+   "servers":[
+      {
+         "id":"minegrounds",
+         "name":"Minegrounds Mod",
+         "description":"Serveur Minegrounds (Gunbox, Battlegrounds)",
+         "icon":"https://minegrounds.eu/assets/img/SmallLogo.png",
+         "version":"0.4.1",
+         "address":"minegrounds.eu",
+         "minecraftVersion":"1.12.2",
+         "mainServer":false,
+         "autoconnect":false,
+         "modules":[
             {
-              "id": "net.minecraft:launchwrapper:1.12",
-              "name": "Mojang (LaunchWrapper)",
-              "type": "Library",
-              "artifact": {
-                "size": 32999,
-                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
-              }
+               "id":"net.minecraftforge:forge:1.12.2-14.23.5.2838",
+               "name":"Minecraft Forge",
+               "type":"ForgeHosted",
+               "artifact":{
+                  "size":5035170,
+                  "MD5":"8112748766BA92310141FEF972FC1AE6",
+                  "url":"https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar"
+               },
+               "subModules":[
+                  {
+                     "id":"net.minecraft:launchwrapper:1.12",
+                     "name":"Mojang (LaunchWrapper)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":32999,
+                        "MD5":"934b2d91c7c5be4a49577c9e6b40e8da",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
+                     }
+                  },
+                  {
+                     "id":"org.ow2.asm:asm-all:5.2",
+                     "name":"Mojang (ASM)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":247787,
+                        "MD5":"f5ad16c7f0338b541978b0430d51dc83",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
+                     }
+                  },
+                  {
+                     "id":"jline:jline:2.13",
+                     "name":"Mojang (jline)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":248566,
+                        "MD5":"f251ba666cccb260ff7215b2cbeee8d4",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-library:2.11.1@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-library)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":1474672,
+                        "MD5":"379c15c4f724421c6d5d7aecedaf87a6",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-compiler:2.11.1@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-compiler)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":3076920,
+                        "MD5":"7d89e952f2d5c74577310cd2c28e3f20",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-actors-migration_2.11:1.1.0@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-actors-migration)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":21324,
+                        "MD5":"04e3428b2600ace33c7ae2bf1f6c0a4c",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-continuations-library)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":7956,
+                        "MD5":"ed9b1d27aba8ac4090a3749c4dfc895a",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-continuations-plugin)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":46140,
+                        "MD5":"a8232db22a72a981de6b1399eb86dff7",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-parser-combinators)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":85568,
+                        "MD5":"2e50a7df17680daadacca69f07f8a16d",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-reflect:2.11.1@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-reflect)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":1070312,
+                        "MD5":"84e5dc81c10e2bd74c579c9d0332fdd9",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-swing_2.11:1.0.1",
+                     "name":"Minecraft Forge (scala-swing)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":736795,
+                        "MD5":"1d360289e697022a3f57abaad344b28f",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-xml_2.11:1.0.2@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-xml)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":217812,
+                        "MD5":"cc891b094a4c32dedc56bfefe9b072ff",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"com.typesafe.akka:akka-actor_2.11:2.3.3@jar.pack.xz",
+                     "name":"Minecraft Forge (akka-actor)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":746612,
+                        "MD5":"25cb22c3078e9fb3f7a861c912924862",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"com.typesafe:config:1.2.1@jar.pack.xz",
+                     "name":"Minecraft Forge (typesafe-config)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":56636,
+                        "MD5":"10ec4ccabc4e68aac9cf87165ead5d7d",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"lzma:lzma:0.0.1",
+                     "name":"Mojang (LZMA)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":5762,
+                        "MD5":"a3e3c3186e41c4a1a3027ba2bb23cdc6",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
+                     }
+                  },
+                  {
+                     "id":"net.sf.trove4j:trove4j:3.0.3",
+                     "name":"Trove4J",
+                     "type":"Library",
+                     "artifact":{
+                        "size":2523218,
+                        "MD5":"8fc4d4e0129244f9fd39650c5f30feb2",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
+                     }
+                  },
+                  {
+                     "id":"java3d:vecmath:1.5.2",
+                     "name":"Vecmath",
+                     "type":"Library",
+                     "artifact":{
+                        "size":318956,
+                        "MD5":"e5d2b7f46c4800a32f62ce75676a5710",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
+                     }
+                  },
+                  {
+                     "id":"net.sf.jopt-simple:jopt-simple:5.0.3",
+                     "name":"Jopt-simple",
+                     "type":"Library",
+                     "artifact":{
+                        "size":78175,
+                        "MD5":"0a5ec84e23df9d7cfb4063bc55f2744c",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
+                     }
+                  },
+                  {
+                     "id":"org.apache.maven:maven-artifact:3.5.3",
+                     "name":"maven-artifact",
+                     "type":"Library",
+                     "artifact":{
+                        "size":54961,
+                        "MD5":"7741ebf29690ee7d9dde9cf4376347fc",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
+                     }
+                  },
+                  {
+                     "id":"net.minecraftforge:MercuriusUpdater:1.12.2",
+                     "name":"MercuriusUpdater",
+                     "type":"Library",
+                     "artifact":{
+                        "size":15098,
+                        "MD5":"6eb9e61097bee3103a2fdc42746b76a4",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
+                     }
+                  }
+               ]
             },
             {
-              "id": "org.ow2.asm:asm-all:5.2",
-              "name": "Mojang (ASM)",
-              "type": "Library",
-              "artifact": {
-                "size": 247787,
-                "MD5": "f5ad16c7f0338b541978b0430d51dc83",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
-              }
+               "id":"Minegrounds:minegrounds:0.1",
+               "name":"Minegrounds - Core",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":32720049,
+                  "MD5":"57073b024afc5610b4ed3d9fa1869514",
+                  "url":"https://minegrounds.eu/launcher/files/mods/minegrounds-1.0.jar"
+               }
             },
             {
-              "id": "jline:jline:2.13",
-              "name": "Mojang (jline)",
-              "type": "Library",
-              "artifact": {
-                "size": 248566,
-                "MD5": "f251ba666cccb260ff7215b2cbeee8d4",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
-              }
+               "id":"Minegrounds:minegroundsblocks:1.0",
+               "name":"Minegrounds - Blocks",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":17194152,
+                  "MD5":"94de90bd969d3654b56d93a4e1bc3008",
+                  "url":"https://minegrounds.eu/launcher/files/mods/blocks-1.0.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-library:2.11.1@jar.pack.xz",
-              "name": "Minecraft Forge (scala-library)",
-              "type": "Library",
-              "artifact": {
-                "size": 1474672,
-                "MD5": "379c15c4f724421c6d5d7aecedaf87a6",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
-              }
+               "id":"EngineersDecor:eg:1.0.9",
+               "name":"EngineersDecor",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":673145,
+                  "MD5":"191e1b354bf788e0070c34375151f830",
+                  "url":"https://minegrounds.eu/launcher/files/mods/engineersdecor-1.12.2-1.0.9.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-compiler:2.11.1@jar.pack.xz",
-              "name": "Minecraft Forge (scala-compiler)",
-              "type": "Library",
-              "artifact": {
-                "size": 3076920,
-                "MD5": "7d89e952f2d5c74577310cd2c28e3f20",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
-              }
+               "id":"FoamFix:foamfix:0.10.5",
+               "name":"FoamFix",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":211210,
+                  "MD5":"ec2829750206833af9ee098c5ddb8e32",
+                  "url":"https://minegrounds.eu/launcher/files/mods/foamfix-0.10.5-1.12.2.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar.pack.xz",
-              "name": "Minecraft Forge (scala-actors-migration)",
-              "type": "Library",
-              "artifact": {
-                "size": 21324,
-                "MD5": "04e3428b2600ace33c7ae2bf1f6c0a4c",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
-              }
+               "id":"Forgelin:forgelin:1.8.2",
+               "name":"Forgelin",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":5124663,
+                  "MD5":"59035365f7af35f599d1c4baade64d8b",
+                  "url":"https://minegrounds.eu/launcher/files/mods/Forgelin-1.8.2.jar"
+               }
             },
             {
-              "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2@jar.pack.xz",
-              "name": "Minecraft Forge (scala-continuations-library)",
-              "type": "Library",
-              "artifact": {
-                "size": 7956,
-                "MD5": "ed9b1d27aba8ac4090a3749c4dfc895a",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
-              }
+               "id":"ModelLoader:modelloader:1.1.5",
+               "name":"ModelLoader",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":367171,
+                  "MD5":"dd84dbd4b9437722938c208283d6dbd7",
+                  "url":"https://minegrounds.eu/launcher/files/mods/modelloader-1.1.5.jar"
+               }
             },
             {
-              "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2@jar.pack.xz",
-              "name": "Minecraft Forge (scala-continuations-plugin)",
-              "type": "Library",
-              "artifact": {
-                "size": 46140,
-                "MD5": "a8232db22a72a981de6b1399eb86dff7",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
-              }
+               "id":"ModularWarfare:mw:0.1",
+               "name":"ModularWarfare",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":2137987,
+                  "MD5":"dec8962d03205d9792b430b3d6da141d",
+                  "url":"https://minegrounds.eu/launcher/files/mods/modularwarfare-0.2.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar.pack.xz",
-              "name": "Minecraft Forge (scala-parser-combinators)",
-              "type": "Library",
-              "artifact": {
-                "size": 85568,
-                "MD5": "2e50a7df17680daadacca69f07f8a16d",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
-              }
+               "id":"MoreLayers:morelayers:1.3",
+               "name":"MoreLayers",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":40164,
+                  "MD5":"3bf820e71557887b44a33019da75faa6",
+                  "url":"https://minegrounds.eu/launcher/files/mods/More+Layers+1.3+(1.12.2).jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-reflect:2.11.1@jar.pack.xz",
-              "name": "Minecraft Forge (scala-reflect)",
-              "type": "Library",
-              "artifact": {
-                "size": 1070312,
-                "MD5": "84e5dc81c10e2bd74c579c9d0332fdd9",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
-              }
+               "id":"OptiFine:optifine:1.0",
+               "name":"OptiFine",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":11022391,
+                  "MD5":"b00ff14366bca47d4c3387c94242546c",
+                  "url":"https://minegrounds.eu/launcher/files/mods/OptiFine_1.12.2_HD_U_E3.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-swing_2.11:1.0.1",
-              "name": "Minecraft Forge (scala-swing)",
-              "type": "Library",
-              "artifact": {
-                "size": 736795,
-                "MD5": "1d360289e697022a3f57abaad344b28f",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
-              }
+               "id":"Surge:surge:2.0.77",
+               "name":"Surge",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":1042621,
+                  "MD5":"53271408804cdf9bb22c1f885bcd8708",
+                  "url":"https://minegrounds.eu/launcher/files/mods/Surge-1.12.2-2.0.77.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar.pack.xz",
-              "name": "Minecraft Forge (scala-xml)",
-              "type": "Library",
-              "artifact": {
-                "size": 217812,
-                "MD5": "cc891b094a4c32dedc56bfefe9b072ff",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
-              }
+               "id":"VoiceChatReloaded:gvc:1.0.1",
+               "name":"VoiceChatReloaded",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":425242,
+                  "MD5":"8a7c04a17679e20887aef6f5cbd9e32b",
+                  "url":"https://minegrounds.eu/launcher/files/mods/VoiceChatReloaded-1.0.1.jar"
+               }
             },
             {
-              "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar.pack.xz",
-              "name": "Minecraft Forge (akka-actor)",
-              "type": "Library",
-              "artifact": {
-                "size": 746612,
-                "MD5": "25cb22c3078e9fb3f7a861c912924862",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
-              }
+               "id":"ToastControl:toastcontrol:1.0.1",
+               "name":"ToastControl",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":21668,
+                  "MD5":"e431fec0248132e5c4d03ad70bd4dc6b",
+                  "url":"https://minegrounds.eu/launcher/files/mods/Toast+Control-1.12.2-1.8.1.jar"
+               }
             },
             {
-              "id": "com.typesafe:config:1.2.1@jar.pack.xz",
-              "name": "Minecraft Forge (typesafe-config)",
-              "type": "Library",
-              "artifact": {
-                "size": 56636,
-                "MD5": "10ec4ccabc4e68aac9cf87165ead5d7d",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
-              }
+               "id":"Minimap:Minimap:1.0.4",
+               "name":"Minimap",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":398334,
+                  "MD5":"DBEA139DCE44F728C101C74E477FC491",
+                  "url":"https://minegrounds.eu/launcher/files/mods/Xaeros_Minimap_FP1.18.5.3_Forge_1.12.jar"
+               }
             },
             {
-              "id": "lzma:lzma:0.0.1",
-              "name": "Mojang (LZMA)",
-              "type": "Library",
-              "artifact": {
-                "size": 5762,
-                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
-              }
+               "id":"Placebo:placebo:1.0.1",
+               "name":"Placebo",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":76902,
+                  "MD5":"a9ecfa296b2b1203ed5a68ed6c01833a",
+                  "url":"https://minegrounds.eu/launcher/files/mods/Placebo-1.12.2-1.6.0.jar"
+               }
             },
             {
-              "id": "net.sf.trove4j:trove4j:3.0.3",
-              "name": "Trove4J",
-              "type": "Library",
-              "artifact": {
-                "size": 2523218,
-                "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
-              }
+               "id":"toastconfig",
+               "name":"config",
+               "type":"File",
+               "artifact":{
+                  "size":"1925",
+                  "path":"config/toastcontrol.cfg",
+                  "url":"https://minegrounds.eu/launcher/files/config/toastcontrol.cfg"
+               }
             },
             {
-              "id": "java3d:vecmath:1.5.2",
-              "name": "Vecmath",
-              "type": "Library",
-              "artifact": {
-                "size": 318956,
-                "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
-              }
+               "id":"rcraft.files:00000003:2019-07-22",
+               "name":"okp7",
+               "type":"File",
+               "artifact":{
+                  "size":"133147",
+                  "path":"resources/models/attachments/okp7.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/attachments/okp7.obj"
+               }
             },
             {
-              "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
-              "name": "Jopt-simple",
-              "type": "Library",
-              "artifact": {
-                "size": 78175,
-                "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
-              }
+               "id":"rcraft.files:00000004:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"8275",
+                  "path":"resources/models/guns/akm/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/akm/ammo.obj"
+               }
             },
             {
-              "id": "org.apache.maven:maven-artifact:3.5.3",
-              "name": "maven-artifact",
-              "type": "Library",
-              "artifact": {
-                "size": 54961,
-                "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
-              }
+               "id":"rcraft.files:00000005:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"456274",
+                  "path":"resources/models/guns/akm/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/akm/body.obj"
+               }
             },
             {
-              "id": "net.minecraftforge:MercuriusUpdater:1.12.2",
-              "name": "MercuriusUpdater",
-              "type": "Library",
-              "artifact": {
-                "size": 15098,
-                "MD5": "6eb9e61097bee3103a2fdc42746b76a4",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
-              }
+               "id":"rcraft.files:00000006:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"9532",
+                  "path":"resources/models/guns/akm/slide.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/akm/slide.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000007:2019-07-22",
+               "name":"wood",
+               "type":"File",
+               "artifact":{
+                  "size":"60985",
+                  "path":"resources/models/guns/akm/wood.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/akm/wood.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000008:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"25350",
+                  "path":"resources/models/guns/ar15/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/ar15/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000009:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"790276",
+                  "path":"resources/models/guns/ar15/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/ar15/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000010:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"34894",
+                  "path":"resources/models/guns/aug/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/aug/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000011:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"561550",
+                  "path":"resources/models/guns/aug/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/aug/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000012:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"3019",
+                  "path":"resources/models/guns/fnx45/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/fnx45/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000013:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"53654",
+                  "path":"resources/models/guns/fnx45/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/fnx45/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000014:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"81458",
+                  "path":"resources/models/guns/fnx45/slide.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/fnx45/slide.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000015:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"8079",
+                  "path":"resources/models/guns/hamr/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/hamr/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000016:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"269888",
+                  "path":"resources/models/guns/hamr/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/hamr/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000017:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"4499",
+                  "path":"resources/models/guns/hamr/slide.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/hamr/slide.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000018:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"25800",
+                  "path":"resources/models/guns/m110/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/m110/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000019:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"1316707",
+                  "path":"resources/models/guns/m110/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/m110/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000020:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"20255",
+                  "path":"resources/models/guns/m1911/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/m1911/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000021:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"264394",
+                  "path":"resources/models/guns/m1911/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/m1911/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000022:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"143606",
+                  "path":"resources/models/guns/m1911/slide.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/m1911/slide.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000023:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"95842",
+                  "path":"resources/models/guns/m24/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/m24/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000024:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"1162314",
+                  "path":"resources/models/guns/m24/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/m24/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000025:2019-07-22",
+               "name":"pump",
+               "type":"File",
+               "artifact":{
+                  "size":"57648",
+                  "path":"resources/models/guns/m24/pump.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/m24/pump.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000026:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"7228",
+                  "path":"resources/models/guns/moeak/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/moeak/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000027:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"617575",
+                  "path":"resources/models/guns/moeak/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/moeak/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000028:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"8419",
+                  "path":"resources/models/guns/moeak/slide.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/moeak/slide.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000029:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"23120",
+                  "path":"resources/models/guns/mp28/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/mp28/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000030:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"883388",
+                  "path":"resources/models/guns/mp28/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/mp28/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000031:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"32482",
+                  "path":"resources/models/guns/mp28/slide.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/mp28/slide.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000032:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"27849",
+                  "path":"resources/models/guns/p88/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/p88/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000033:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"185535",
+                  "path":"resources/models/guns/p88/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/p88/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000034:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"149903",
+                  "path":"resources/models/guns/p88/slide.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/p88/slide.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000035:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"34809",
+                  "path":"resources/models/guns/sa80/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/sa80/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000036:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"945868",
+                  "path":"resources/models/guns/sa80/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/sa80/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000037:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"4536",
+                  "path":"resources/models/guns/sa80/slide.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/sa80/slide.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000038:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"29692",
+                  "path":"resources/models/guns/scarh/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/scarh/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000039:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"666860",
+                  "path":"resources/models/guns/scarh/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/scarh/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000040:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"8114",
+                  "path":"resources/models/guns/scarh/slide.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/scarh/slide.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000041:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"2112",
+                  "path":"resources/models/guns/sks/ammo.mtl",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/sks/ammo.mtl"
+               }
+            },
+            {
+               "id":"rcraft.files:00000042:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"876433",
+                  "path":"resources/models/guns/sks/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/sks/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000043:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"671744",
+                  "path":"resources/models/guns/sks/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/sks/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000044:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"12032",
+                  "path":"resources/models/guns/spas12/body.mtl",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/spas12/body.mtl"
+               }
+            },
+            {
+               "id":"rcraft.files:00000045:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"786432",
+                  "path":"resources/models/guns/spas12/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/spas12/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000046:2019-07-22",
+               "name":"pump",
+               "type":"File",
+               "artifact":{
+                  "size":"303",
+                  "path":"resources/models/guns/spas12/pump.mtl",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/spas12/pump.mtl"
+               }
+            },
+            {
+               "id":"rcraft.files:00000047:2019-07-22",
+               "name":"pump",
+               "type":"File",
+               "artifact":{
+                  "size":"27011",
+                  "path":"resources/models/guns/spas12/pump.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/spas12/pump.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000048:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"4652",
+                  "path":"resources/models/guns/spas12/slide.mtl",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/spas12/slide.mtl"
+               }
+            },
+            {
+               "id":"rcraft.files:00000049:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"212992",
+                  "path":"resources/models/guns/spas12/slide.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/spas12/slide.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000050:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"58597",
+                  "path":"resources/models/guns/ump45/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/ump45/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000051:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"1191043",
+                  "path":"resources/models/guns/ump45/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/ump45/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000052:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"209",
+                  "path":"resources/models/guns/vector/ammo.mtl",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/vector/ammo.mtl"
+               }
+            },
+            {
+               "id":"rcraft.files:00000053:2019-07-22",
+               "name":"ammo",
+               "type":"File",
+               "artifact":{
+                  "size":"13406",
+                  "path":"resources/models/guns/vector/ammo.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/vector/ammo.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000054:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"535",
+                  "path":"resources/models/guns/vector/body.mtl",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/vector/body.mtl"
+               }
+            },
+            {
+               "id":"rcraft.files:00000055:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"698067",
+                  "path":"resources/models/guns/vector/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/vector/body.obj"
+               }
+            },
+            {
+               "id":"rcraft.files:00000056:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"369",
+                  "path":"resources/models/guns/vector/slide.mtl",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/vector/slide.mtl"
+               }
+            },
+            {
+               "id":"rcraft.files:00000057:2019-07-22",
+               "name":"slide",
+               "type":"File",
+               "artifact":{
+                  "size":"25330",
+                  "path":"resources/models/guns/vector/slide.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/vector/slide.obj"
+               }
+            },
+            {
+               "id":"minegrounds-contentpack",
+               "name":"minegrounds-contentpack",
+               "type":"File",
+               "artifact":{
+                  "size":"7030326",
+                  "MD5":"869d5cb834e7fb2364e9f41b3e3161d6",
+                  "path":"ModularWarfare/minegrounds.zip",
+                  "url":"https://minegrounds.eu/launcher/files/ModularWarfare/minegrounds.zip"
+               }
+            },
+            {
+               "id":"officialmw-contentpack",
+               "name":"officialmw-contentpack",
+               "type":"File",
+               "artifact":{
+                  "size":"7880375",
+                  "path":"ModularWarfare/officialmw.zip",
+                  "MD5":"33e71dcdf1bb57add37db875025ef095",
+                  "url":"https://minegrounds.eu/launcher/files/ModularWarfare/officialmw.zip"
+               }
+            },
+            {
+               "id":"config",
+               "name":"config",
+               "type":"File",
+               "artifact":{
+                  "size":"115",
+                  "path":"ModularWarfare/mod_config.json",
+                  "MD5":"2d48153dcc36ef48c18879e68b3ac1d7",
+                  "url":"https://minegrounds.eu/launcher/files/ModularWarfare/mod_config.json"
+               }
+            },
+            {
+               "id":"config-minimap",
+               "name":"config-minimap",
+               "type":"File",
+               "artifact":{
+                  "size":"1640",
+                  "path":"config/xaerominimap.txt",
+                  "MD5":"8496B1E3E10AE79C66470962FD6F70D9",
+                  "url":"https://minegrounds.eu/launcher/files/config/xaerominimap.txt"
+               }
             }
-          ]
-        },
-        {
-          "id": "Minegrounds:minegrounds:0.1",
-          "name": "Minegrounds - Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 32720049,
-            "MD5": "57073b024afc5610b4ed3d9fa1869514",
-            "url": "https://minegrounds.eu/launcher/files/mods/minegrounds-1.0.jar"
-          }
-        },
-        {
-          "id": "Minegrounds:minegroundsblocks:1.0",
-          "name": "Minegrounds - Blocks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 17194152,
-            "MD5": "94de90bd969d3654b56d93a4e1bc3008",
-            "url": "https://minegrounds.eu/launcher/files/mods/blocks-1.0.jar"
-          }
-        },
-        {
-          "id": "EngineersDecor:eg:1.0.9",
-          "name": "EngineersDecor",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 673145,
-            "MD5": "191e1b354bf788e0070c34375151f830",
-            "url": "https://minegrounds.eu/launcher/files/mods/engineersdecor-1.12.2-1.0.9.jar"
-          }
-        },
-        {
-          "id": "FoamFix:foamfix:0.10.5",
-          "name": "FoamFix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 211210,
-            "MD5": "ec2829750206833af9ee098c5ddb8e32",
-            "url": "https://minegrounds.eu/launcher/files/mods/foamfix-0.10.5-1.12.2.jar"
-          }
-        },
-        {
-          "id": "Forgelin:forgelin:1.8.2",
-          "name": "Forgelin",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5124663,
-            "MD5": "59035365f7af35f599d1c4baade64d8b",
-            "url": "https://minegrounds.eu/launcher/files/mods/Forgelin-1.8.2.jar"
-          }
-        },
-        {
-          "id": "ModelLoader:modelloader:1.1.5",
-          "name": "ModelLoader",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 367171,
-            "MD5": "dd84dbd4b9437722938c208283d6dbd7",
-            "url": "https://minegrounds.eu/launcher/files/mods/modelloader-1.1.5.jar"
-          }
-        },
-        {
-          "id": "ModularWarfare:mw:0.1",
-          "name": "ModularWarfare",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2137987,
-            "MD5": "dec8962d03205d9792b430b3d6da141d",
-            "url": "https://minegrounds.eu/launcher/files/mods/modularwarfare-0.2.jar"
-          }
-        },
-        {
-          "id": "MoreLayers:morelayers:1.3",
-          "name": "MoreLayers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 40164,
-            "MD5": "3bf820e71557887b44a33019da75faa6",
-            "url": "https://minegrounds.eu/launcher/files/mods/More+Layers+1.3+(1.12.2).jar"
-          }
-        },
-        {
-          "id": "OptiFine:optifine:1.0",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11022391,
-            "MD5": "b00ff14366bca47d4c3387c94242546c",
-            "url": "https://minegrounds.eu/launcher/files/mods/OptiFine_1.12.2_HD_U_E3.jar"
-          }
-        },
-        {
-          "id": "Surge:surge:2.0.77",
-          "name": "Surge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1042621,
-            "MD5": "53271408804cdf9bb22c1f885bcd8708",
-            "url": "https://minegrounds.eu/launcher/files/mods/Surge-1.12.2-2.0.77.jar"
-          }
-        },
-        {
-          "id": "VoiceChatReloaded:gvc:1.0.1",
-          "name": "VoiceChatReloaded",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 425242,
-            "MD5": "8a7c04a17679e20887aef6f5cbd9e32b",
-            "url": "https://minegrounds.eu/launcher/files/mods/VoiceChatReloaded-1.0.1.jar"
-          }
-        },
-        {
-          "id": "ToastControl:toastcontrol:1.0.1",
-          "name": "ToastControl",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 21668,
-            "MD5": "e431fec0248132e5c4d03ad70bd4dc6b",
-            "url": "https://minegrounds.eu/launcher/files/mods/Toast+Control-1.12.2-1.8.1.jar"
-          }
-        },
-        {
-          "id": "Minimap:Minimap:1.0.4",
-          "name": "Minimap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 398334,
-            "MD5": "DBEA139DCE44F728C101C74E477FC491",
-            "url": "https://minegrounds.eu/launcher/files/mods/Xaeros_Minimap_FP1.18.5.3_Forge_1.12.jar"
-          }
-        },
-        {
-          "id": "Placebo:placebo:1.0.1",
-          "name": "Placebo",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 76902,
-            "MD5": "a9ecfa296b2b1203ed5a68ed6c01833a",
-            "url": "https://minegrounds.eu/launcher/files/mods/Placebo-1.12.2-1.6.0.jar"
-          }
-        },
-        {
-          "id": "toastconfig",
-          "name": "config",
-          "type": "File",
-          "artifact": {
-            "size": "1925",
-            "path": "config/toastcontrol.cfg",
-            "url": "https://minegrounds.eu/launcher/files/config/toastcontrol.cfg"
-          }
-        },
-        {
-          "id": "rcraft.files:00000003:2019-07-22",
-          "name": "okp7",
-          "type": "File",
-          "artifact": {
-            "size": "133147",
-            "path": "resources/models/attachments/okp7.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/attachments/okp7.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000004:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "8275",
-            "path": "resources/models/guns/akm/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/akm/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000005:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "456274",
-            "path": "resources/models/guns/akm/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/akm/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000006:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "9532",
-            "path": "resources/models/guns/akm/slide.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/akm/slide.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000007:2019-07-22",
-          "name": "wood",
-          "type": "File",
-          "artifact": {
-            "size": "60985",
-            "path": "resources/models/guns/akm/wood.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/akm/wood.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000008:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "25350",
-            "path": "resources/models/guns/ar15/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/ar15/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000009:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "790276",
-            "path": "resources/models/guns/ar15/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/ar15/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000010:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "34894",
-            "path": "resources/models/guns/aug/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/aug/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000011:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "561550",
-            "path": "resources/models/guns/aug/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/aug/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000012:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "3019",
-            "path": "resources/models/guns/fnx45/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/fnx45/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000013:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "53654",
-            "path": "resources/models/guns/fnx45/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/fnx45/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000014:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "81458",
-            "path": "resources/models/guns/fnx45/slide.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/fnx45/slide.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000015:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "8079",
-            "path": "resources/models/guns/hamr/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/hamr/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000016:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "269888",
-            "path": "resources/models/guns/hamr/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/hamr/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000017:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "4499",
-            "path": "resources/models/guns/hamr/slide.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/hamr/slide.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000018:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "25800",
-            "path": "resources/models/guns/m110/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/m110/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000019:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "1316707",
-            "path": "resources/models/guns/m110/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/m110/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000020:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "20255",
-            "path": "resources/models/guns/m1911/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/m1911/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000021:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "264394",
-            "path": "resources/models/guns/m1911/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/m1911/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000022:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "143606",
-            "path": "resources/models/guns/m1911/slide.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/m1911/slide.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000023:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "95842",
-            "path": "resources/models/guns/m24/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/m24/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000024:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "1162314",
-            "path": "resources/models/guns/m24/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/m24/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000025:2019-07-22",
-          "name": "pump",
-          "type": "File",
-          "artifact": {
-            "size": "57648",
-            "path": "resources/models/guns/m24/pump.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/m24/pump.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000026:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "7228",
-            "path": "resources/models/guns/moeak/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/moeak/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000027:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "617575",
-            "path": "resources/models/guns/moeak/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/moeak/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000028:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "8419",
-            "path": "resources/models/guns/moeak/slide.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/moeak/slide.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000029:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "23120",
-            "path": "resources/models/guns/mp28/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/mp28/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000030:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "883388",
-            "path": "resources/models/guns/mp28/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/mp28/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000031:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "32482",
-            "path": "resources/models/guns/mp28/slide.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/mp28/slide.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000032:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "27849",
-            "path": "resources/models/guns/p88/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/p88/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000033:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "185535",
-            "path": "resources/models/guns/p88/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/p88/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000034:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "149903",
-            "path": "resources/models/guns/p88/slide.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/p88/slide.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000035:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "34809",
-            "path": "resources/models/guns/sa80/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/sa80/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000036:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "945868",
-            "path": "resources/models/guns/sa80/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/sa80/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000037:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "4536",
-            "path": "resources/models/guns/sa80/slide.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/sa80/slide.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000038:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "29692",
-            "path": "resources/models/guns/scarh/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/scarh/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000039:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "666860",
-            "path": "resources/models/guns/scarh/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/scarh/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000040:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "8114",
-            "path": "resources/models/guns/scarh/slide.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/scarh/slide.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000041:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "2112",
-            "path": "resources/models/guns/sks/ammo.mtl",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/sks/ammo.mtl"
-          }
-        },
-        {
-          "id": "rcraft.files:00000042:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "876433",
-            "path": "resources/models/guns/sks/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/sks/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000043:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "671744",
-            "path": "resources/models/guns/sks/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/sks/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000044:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "12032",
-            "path": "resources/models/guns/spas12/body.mtl",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/spas12/body.mtl"
-          }
-        },
-        {
-          "id": "rcraft.files:00000045:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "786432",
-            "path": "resources/models/guns/spas12/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/spas12/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000046:2019-07-22",
-          "name": "pump",
-          "type": "File",
-          "artifact": {
-            "size": "303",
-            "path": "resources/models/guns/spas12/pump.mtl",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/spas12/pump.mtl"
-          }
-        },
-        {
-          "id": "rcraft.files:00000047:2019-07-22",
-          "name": "pump",
-          "type": "File",
-          "artifact": {
-            "size": "27011",
-            "path": "resources/models/guns/spas12/pump.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/spas12/pump.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000048:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "4652",
-            "path": "resources/models/guns/spas12/slide.mtl",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/spas12/slide.mtl"
-          }
-        },
-        {
-          "id": "rcraft.files:00000049:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "212992",
-            "path": "resources/models/guns/spas12/slide.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/spas12/slide.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000050:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "58597",
-            "path": "resources/models/guns/ump45/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/ump45/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000051:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "1191043",
-            "path": "resources/models/guns/ump45/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/ump45/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000052:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "209",
-            "path": "resources/models/guns/vector/ammo.mtl",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/vector/ammo.mtl"
-          }
-        },
-        {
-          "id": "rcraft.files:00000053:2019-07-22",
-          "name": "ammo",
-          "type": "File",
-          "artifact": {
-            "size": "13406",
-            "path": "resources/models/guns/vector/ammo.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/vector/ammo.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000054:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "535",
-            "path": "resources/models/guns/vector/body.mtl",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/vector/body.mtl"
-          }
-        },
-        {
-          "id": "rcraft.files:00000055:2019-07-22",
-          "name": "body",
-          "type": "File",
-          "artifact": {
-            "size": "698067",
-            "path": "resources/models/guns/vector/body.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/vector/body.obj"
-          }
-        },
-        {
-          "id": "rcraft.files:00000056:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "369",
-            "path": "resources/models/guns/vector/slide.mtl",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/vector/slide.mtl"
-          }
-        },
-        {
-          "id": "rcraft.files:00000057:2019-07-22",
-          "name": "slide",
-          "type": "File",
-          "artifact": {
-            "size": "25330",
-            "path": "resources/models/guns/vector/slide.obj",
-            "url": "https://minegrounds.eu/launcher/files/resources/models/guns/vector/slide.obj"
-          }
-        },
-        {
-          "id": "minegrounds-contentpack",
-          "name": "minegrounds-contentpack",
-          "type": "File",
-          "artifact": {
-            "size": "7030326",
-            "MD5": "869d5cb834e7fb2364e9f41b3e3161d6",
-            "path": "ModularWarfare/minegrounds.zip",
-            "url": "https://minegrounds.eu/launcher/files/ModularWarfare/minegrounds.zip"
-          }
-        },
-        {
-          "id": "officialmw-contentpack",
-          "name": "officialmw-contentpack",
-          "type": "File",
-          "artifact": {
-            "size": "7880375",
-            "path": "ModularWarfare/officialmw.zip",
-            "MD5": "33e71dcdf1bb57add37db875025ef095",
-            "url": "https://minegrounds.eu/launcher/files/ModularWarfare/officialmw.zip"
-          }
-        },
-        {
-          "id": "config",
-          "name": "config",
-          "type": "File",
-          "artifact": {
-            "size": "115",
-            "path": "ModularWarfare/mod_config.json",
-            "MD5": "2d48153dcc36ef48c18879e68b3ac1d7",
-            "url": "https://minegrounds.eu/launcher/files/ModularWarfare/mod_config.json"
-          }
-        },
-        {
-          "id": "config-minimap",
-          "name": "config-minimap",
-          "type": "File",
-          "artifact": {
-            "size": "1640",
-            "path": "config/xaerominimap.txt",
-            "MD5": "8496B1E3E10AE79C66470962FD6F70D9",
-            "url": "https://minegrounds.eu/launcher/files/config/xaerominimap.txt"
-          }
-        }
-      ]
-    },
-    {
-      "id": "pokicube",
-      "name": "PokiCube Mod",
-      "description": "Serveur PokiCube (Pixelmod)",
-      "icon": "http://pokicube.eu.redirect.franceserv.com/app/webroot/img/icon.png",
-      "version": "Ouverture bientôt",
-      "address": "pokicube.eu",
-      "minecraftVersion": "1.12.2",
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2838",
-          "name": "Minecraft Forge",
-          "type": "ForgeHosted",
-          "artifact": {
-            "size": 5035170,
-            "MD5": "8112748766BA92310141FEF972FC1AE6",
-            "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar"
-          },
-          "subModules": [
+         ]
+      },
+      {
+         "id":"pokicube",
+         "name":"PokiCube Mod",
+         "description":"Serveur PokiCube (Pixelmod)",
+         "icon":"http://pokicube.eu.redirect.franceserv.com/app/webroot/img/icon.png",
+         "version":"Ouverture bientôt",
+         "address":"pokicube.eu",
+         "minecraftVersion":"1.12.2",
+         "mainServer":false,
+         "autoconnect":false,
+         "modules":[
             {
-              "id": "net.minecraft:launchwrapper:1.12",
-              "name": "Mojang (LaunchWrapper)",
-              "type": "Library",
-              "artifact": {
-                "size": 32999,
-                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-all:5.2",
-              "name": "Mojang (ASM)",
-              "type": "Library",
-              "artifact": {
-                "size": 247787,
-                "MD5": "f5ad16c7f0338b541978b0430d51dc83",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
-              }
-            },
-            {
-              "id": "jline:jline:2.13",
-              "name": "Mojang (jline)",
-              "type": "Library",
-              "artifact": {
-                "size": 248566,
-                "MD5": "f251ba666cccb260ff7215b2cbeee8d4",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-library:2.11.1@jar.pack.xz",
-              "name": "Minecraft Forge (scala-library)",
-              "type": "Library",
-              "artifact": {
-                "size": 1474672,
-                "MD5": "379c15c4f724421c6d5d7aecedaf87a6",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-compiler:2.11.1@jar.pack.xz",
-              "name": "Minecraft Forge (scala-compiler)",
-              "type": "Library",
-              "artifact": {
-                "size": 3076920,
-                "MD5": "7d89e952f2d5c74577310cd2c28e3f20",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar.pack.xz",
-              "name": "Minecraft Forge (scala-actors-migration)",
-              "type": "Library",
-              "artifact": {
-                "size": 21324,
-                "MD5": "04e3428b2600ace33c7ae2bf1f6c0a4c",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
-              }
-            },
-            {
-              "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2@jar.pack.xz",
-              "name": "Minecraft Forge (scala-continuations-library)",
-              "type": "Library",
-              "artifact": {
-                "size": 7956,
-                "MD5": "ed9b1d27aba8ac4090a3749c4dfc895a",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
-              }
-            },
-            {
-              "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2@jar.pack.xz",
-              "name": "Minecraft Forge (scala-continuations-plugin)",
-              "type": "Library",
-              "artifact": {
-                "size": 46140,
-                "MD5": "a8232db22a72a981de6b1399eb86dff7",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar.pack.xz",
-              "name": "Minecraft Forge (scala-parser-combinators)",
-              "type": "Library",
-              "artifact": {
-                "size": 85568,
-                "MD5": "2e50a7df17680daadacca69f07f8a16d",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-reflect:2.11.1@jar.pack.xz",
-              "name": "Minecraft Forge (scala-reflect)",
-              "type": "Library",
-              "artifact": {
-                "size": 1070312,
-                "MD5": "84e5dc81c10e2bd74c579c9d0332fdd9",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-swing_2.11:1.0.1",
-              "name": "Minecraft Forge (scala-swing)",
-              "type": "Library",
-              "artifact": {
-                "size": 736795,
-                "MD5": "1d360289e697022a3f57abaad344b28f",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
-              }
-            },
-            {
-              "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar.pack.xz",
-              "name": "Minecraft Forge (scala-xml)",
-              "type": "Library",
-              "artifact": {
-                "size": 217812,
-                "MD5": "cc891b094a4c32dedc56bfefe9b072ff",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
-              }
-            },
-            {
-              "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar.pack.xz",
-              "name": "Minecraft Forge (akka-actor)",
-              "type": "Library",
-              "artifact": {
-                "size": 746612,
-                "MD5": "25cb22c3078e9fb3f7a861c912924862",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
-              }
-            },
-            {
-              "id": "com.typesafe:config:1.2.1@jar.pack.xz",
-              "name": "Minecraft Forge (typesafe-config)",
-              "type": "Library",
-              "artifact": {
-                "size": 56636,
-                "MD5": "10ec4ccabc4e68aac9cf87165ead5d7d",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
-              }
-            },
-            {
-              "id": "lzma:lzma:0.0.1",
-              "name": "Mojang (LZMA)",
-              "type": "Library",
-              "artifact": {
-                "size": 5762,
-                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
-              }
-            },
-            {
-              "id": "net.sf.trove4j:trove4j:3.0.3",
-              "name": "Trove4J",
-              "type": "Library",
-              "artifact": {
-                "size": 2523218,
-                "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
-              }
-            },
-            {
-              "id": "java3d:vecmath:1.5.2",
-              "name": "Vecmath",
-              "type": "Library",
-              "artifact": {
-                "size": 318956,
-                "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
-              }
-            },
-            {
-              "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
-              "name": "Jopt-simple",
-              "type": "Library",
-              "artifact": {
-                "size": 78175,
-                "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
-              }
-            },
-            {
-              "id": "org.apache.maven:maven-artifact:3.5.3",
-              "name": "maven-artifact",
-              "type": "Library",
-              "artifact": {
-                "size": 54961,
-                "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:MercuriusUpdater:1.12.2",
-              "name": "MercuriusUpdater",
-              "type": "Library",
-              "artifact": {
-                "size": 15098,
-                "MD5": "6eb9e61097bee3103a2fdc42746b76a4",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
-              }
-            },
-            {
-              "id": "PokiCube:Pixelmon:1.0",
-              "name": "Pokicube - reforged",
-              "type": "ForgeMod",
-              "artifact": {
-              "size": 352390414,
-              "MD5": "84bf6e5dffb193954119040a15bf5ce9",
-              "url": "https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.12.2-7.1.1-universal.jar"
-              }
+               "id":"net.minecraftforge:forge:1.12.2-14.23.5.2838",
+               "name":"Minecraft Forge",
+               "type":"ForgeHosted",
+               "artifact":{
+                  "size":5035170,
+                  "MD5":"8112748766BA92310141FEF972FC1AE6",
+                  "url":"https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar"
+               },
+               "subModules":[
+                  {
+                     "id":"net.minecraft:launchwrapper:1.12",
+                     "name":"Mojang (LaunchWrapper)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":32999,
+                        "MD5":"934b2d91c7c5be4a49577c9e6b40e8da",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
+                     }
+                  },
+                  {
+                     "id":"org.ow2.asm:asm-all:5.2",
+                     "name":"Mojang (ASM)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":247787,
+                        "MD5":"f5ad16c7f0338b541978b0430d51dc83",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
+                     }
+                  },
+                  {
+                     "id":"jline:jline:2.13",
+                     "name":"Mojang (jline)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":248566,
+                        "MD5":"f251ba666cccb260ff7215b2cbeee8d4",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-library:2.11.1@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-library)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":1474672,
+                        "MD5":"379c15c4f724421c6d5d7aecedaf87a6",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-compiler:2.11.1@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-compiler)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":3076920,
+                        "MD5":"7d89e952f2d5c74577310cd2c28e3f20",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-actors-migration_2.11:1.1.0@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-actors-migration)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":21324,
+                        "MD5":"04e3428b2600ace33c7ae2bf1f6c0a4c",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-continuations-library)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":7956,
+                        "MD5":"ed9b1d27aba8ac4090a3749c4dfc895a",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-continuations-plugin)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":46140,
+                        "MD5":"a8232db22a72a981de6b1399eb86dff7",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-parser-combinators)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":85568,
+                        "MD5":"2e50a7df17680daadacca69f07f8a16d",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-reflect:2.11.1@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-reflect)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":1070312,
+                        "MD5":"84e5dc81c10e2bd74c579c9d0332fdd9",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-swing_2.11:1.0.1",
+                     "name":"Minecraft Forge (scala-swing)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":736795,
+                        "MD5":"1d360289e697022a3f57abaad344b28f",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-xml_2.11:1.0.2@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-xml)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":217812,
+                        "MD5":"cc891b094a4c32dedc56bfefe9b072ff",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"com.typesafe.akka:akka-actor_2.11:2.3.3@jar.pack.xz",
+                     "name":"Minecraft Forge (akka-actor)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":746612,
+                        "MD5":"25cb22c3078e9fb3f7a861c912924862",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"com.typesafe:config:1.2.1@jar.pack.xz",
+                     "name":"Minecraft Forge (typesafe-config)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":56636,
+                        "MD5":"10ec4ccabc4e68aac9cf87165ead5d7d",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"lzma:lzma:0.0.1",
+                     "name":"Mojang (LZMA)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":5762,
+                        "MD5":"a3e3c3186e41c4a1a3027ba2bb23cdc6",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
+                     }
+                  },
+                  {
+                     "id":"net.sf.trove4j:trove4j:3.0.3",
+                     "name":"Trove4J",
+                     "type":"Library",
+                     "artifact":{
+                        "size":2523218,
+                        "MD5":"8fc4d4e0129244f9fd39650c5f30feb2",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
+                     }
+                  },
+                  {
+                     "id":"java3d:vecmath:1.5.2",
+                     "name":"Vecmath",
+                     "type":"Library",
+                     "artifact":{
+                        "size":318956,
+                        "MD5":"e5d2b7f46c4800a32f62ce75676a5710",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
+                     }
+                  },
+                  {
+                     "id":"net.sf.jopt-simple:jopt-simple:5.0.3",
+                     "name":"Jopt-simple",
+                     "type":"Library",
+                     "artifact":{
+                        "size":78175,
+                        "MD5":"0a5ec84e23df9d7cfb4063bc55f2744c",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
+                     }
+                  },
+                  {
+                     "id":"org.apache.maven:maven-artifact:3.5.3",
+                     "name":"maven-artifact",
+                     "type":"Library",
+                     "artifact":{
+                        "size":54961,
+                        "MD5":"7741ebf29690ee7d9dde9cf4376347fc",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
+                     }
+                  },
+                  {
+                     "id":"net.minecraftforge:MercuriusUpdater:1.12.2",
+                     "name":"MercuriusUpdater",
+                     "type":"Library",
+                     "artifact":{
+                        "size":15098,
+                        "MD5":"6eb9e61097bee3103a2fdc42746b76a4",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
+                     }
+                  },
+                  {
+                     "id":"PokiCube:Pixelmon:1.0",
+                     "name":"Pokicube - reforged",
+                     "type":"ForgeMod",
+                     "artifact":{
+                        "size":352390414,
+                        "MD5":"84bf6e5dffb193954119040a15bf5ce9",
+                        "url":"https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.12.2-7.1.1-universal.jar"
+                     }
+                  }
+               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "arkaniaz",
-      "name": "ArkaniaZ Mod",
-      "description": "Serveur ArkaniaZ (DayZ Minecraft)",
-      "icon": "https://minegrounds.eu/assets/img/arkaniaz.png",
-      "version": "0.1.0",
-      "address": "arkaniaz.fr",
-      "minecraftVersion": "1.12.2",
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2838",
-          "name": "Minecraft Forge",
-          "type": "ForgeHosted",
-          "artifact": {
-            "size": 5035170,
-            "MD5": "8112748766BA92310141FEF972FC1AE6",
-            "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar"
-          },
-          "subModules": [
+         ]
+      },
+      {
+         "id":"arkaniaz",
+         "name":"ArkaniaZ Mod",
+         "description":"Serveur ArkaniaZ (DayZ Minecraft)",
+         "icon":"https://minegrounds.eu/assets/img/arkaniaz.png",
+         "version":"0.1.0",
+         "address":"arkaniaz.fr",
+         "minecraftVersion":"1.12.2",
+         "mainServer":false,
+         "autoconnect":false,
+         "modules":[
             {
-              "id": "net.minecraft:launchwrapper:1.12",
-              "name": "Mojang (LaunchWrapper)",
-              "type": "Library",
-              "artifact": {
-                "size": 32999,
-                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
-              }
+               "id":"net.minecraftforge:forge:1.12.2-14.23.5.2838",
+               "name":"Minecraft Forge",
+               "type":"ForgeHosted",
+               "artifact":{
+                  "size":5035170,
+                  "MD5":"8112748766BA92310141FEF972FC1AE6",
+                  "url":"https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar"
+               },
+               "subModules":[
+                  {
+                     "id":"net.minecraft:launchwrapper:1.12",
+                     "name":"Mojang (LaunchWrapper)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":32999,
+                        "MD5":"934b2d91c7c5be4a49577c9e6b40e8da",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
+                     }
+                  },
+                  {
+                     "id":"org.ow2.asm:asm-all:5.2",
+                     "name":"Mojang (ASM)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":247787,
+                        "MD5":"f5ad16c7f0338b541978b0430d51dc83",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
+                     }
+                  },
+                  {
+                     "id":"jline:jline:2.13",
+                     "name":"Mojang (jline)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":248566,
+                        "MD5":"f251ba666cccb260ff7215b2cbeee8d4",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-library:2.11.1@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-library)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":1474672,
+                        "MD5":"379c15c4f724421c6d5d7aecedaf87a6",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-compiler:2.11.1@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-compiler)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":3076920,
+                        "MD5":"7d89e952f2d5c74577310cd2c28e3f20",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-actors-migration_2.11:1.1.0@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-actors-migration)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":21324,
+                        "MD5":"04e3428b2600ace33c7ae2bf1f6c0a4c",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-continuations-library)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":7956,
+                        "MD5":"ed9b1d27aba8ac4090a3749c4dfc895a",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-continuations-plugin)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":46140,
+                        "MD5":"a8232db22a72a981de6b1399eb86dff7",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-parser-combinators)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":85568,
+                        "MD5":"2e50a7df17680daadacca69f07f8a16d",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-reflect:2.11.1@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-reflect)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":1070312,
+                        "MD5":"84e5dc81c10e2bd74c579c9d0332fdd9",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-swing_2.11:1.0.1",
+                     "name":"Minecraft Forge (scala-swing)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":736795,
+                        "MD5":"1d360289e697022a3f57abaad344b28f",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
+                     }
+                  },
+                  {
+                     "id":"org.scala-lang:scala-xml_2.11:1.0.2@jar.pack.xz",
+                     "name":"Minecraft Forge (scala-xml)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":217812,
+                        "MD5":"cc891b094a4c32dedc56bfefe9b072ff",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"com.typesafe.akka:akka-actor_2.11:2.3.3@jar.pack.xz",
+                     "name":"Minecraft Forge (akka-actor)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":746612,
+                        "MD5":"25cb22c3078e9fb3f7a861c912924862",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"com.typesafe:config:1.2.1@jar.pack.xz",
+                     "name":"Minecraft Forge (typesafe-config)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":56636,
+                        "MD5":"10ec4ccabc4e68aac9cf87165ead5d7d",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
+                     }
+                  },
+                  {
+                     "id":"lzma:lzma:0.0.1",
+                     "name":"Mojang (LZMA)",
+                     "type":"Library",
+                     "artifact":{
+                        "size":5762,
+                        "MD5":"a3e3c3186e41c4a1a3027ba2bb23cdc6",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
+                     }
+                  },
+                  {
+                     "id":"net.sf.trove4j:trove4j:3.0.3",
+                     "name":"Trove4J",
+                     "type":"Library",
+                     "artifact":{
+                        "size":2523218,
+                        "MD5":"8fc4d4e0129244f9fd39650c5f30feb2",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
+                     }
+                  },
+                  {
+                     "id":"java3d:vecmath:1.5.2",
+                     "name":"Vecmath",
+                     "type":"Library",
+                     "artifact":{
+                        "size":318956,
+                        "MD5":"e5d2b7f46c4800a32f62ce75676a5710",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
+                     }
+                  },
+                  {
+                     "id":"net.sf.jopt-simple:jopt-simple:5.0.3",
+                     "name":"Jopt-simple",
+                     "type":"Library",
+                     "artifact":{
+                        "size":78175,
+                        "MD5":"0a5ec84e23df9d7cfb4063bc55f2744c",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
+                     }
+                  },
+                  {
+                     "id":"org.apache.maven:maven-artifact:3.5.3",
+                     "name":"maven-artifact",
+                     "type":"Library",
+                     "artifact":{
+                        "size":54961,
+                        "MD5":"7741ebf29690ee7d9dde9cf4376347fc",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
+                     }
+                  },
+                  {
+                     "id":"net.minecraftforge:MercuriusUpdater:1.12.2",
+                     "name":"MercuriusUpdater",
+                     "type":"Library",
+                     "artifact":{
+                        "size":15098,
+                        "MD5":"6eb9e61097bee3103a2fdc42746b76a4",
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
+                     }
+                  }
+               ]
             },
             {
-              "id": "org.ow2.asm:asm-all:5.2",
-              "name": "Mojang (ASM)",
-              "type": "Library",
-              "artifact": {
-                "size": 247787,
-                "MD5": "f5ad16c7f0338b541978b0430d51dc83",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
-              }
+               "id":"ArkaniaZ:ArkaniaZMenu:1.0",
+               "name":"ArkaniaZMenu",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":16187466,
+                  "MD5":"82e3535db9f91c3ab02b6071ad207ecb",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZMenu.jar"
+               }
             },
             {
-              "id": "jline:jline:2.13",
-              "name": "Mojang (jline)",
-              "type": "Library",
-              "artifact": {
-                "size": 248566,
-                "MD5": "f251ba666cccb260ff7215b2cbeee8d4",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
-              }
+               "id":"ArkaniaZ:ArkaniaZVocal:1.0",
+               "name":"ArkaniaZVocal",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":445000,
+                  "MD5":"d8bb047f700fca6ac08a88f9abb45d82",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZVocal.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-library:2.11.1@jar.pack.xz",
-              "name": "Minecraft Forge (scala-library)",
-              "type": "Library",
-              "artifact": {
-                "size": 1474672,
-                "MD5": "379c15c4f724421c6d5d7aecedaf87a6",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
-              }
+               "id":"ArkaniaZ:ArkaniaZMod:1.0",
+               "name":"ArkaniaZMod",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":18397066,
+                  "MD5":"cff48c5087a1ffdae8aca637d5f20375",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZMod.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-compiler:2.11.1@jar.pack.xz",
-              "name": "Minecraft Forge (scala-compiler)",
-              "type": "Library",
-              "artifact": {
-                "size": 3076920,
-                "MD5": "7d89e952f2d5c74577310cd2c28e3f20",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
-              }
+               "id":"ArkaniaZ:backpack:1.0",
+               "name":"ArkaniaZ - backpack",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":236435,
+                  "MD5":"575669bf0854451ca8e0d2a80869b0c9",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/backpack.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar.pack.xz",
-              "name": "Minecraft Forge (scala-actors-migration)",
-              "type": "Library",
-              "artifact": {
-                "size": 21324,
-                "MD5": "04e3428b2600ace33c7ae2bf1f6c0a4c",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
-              }
+               "id":"ArkaniaZ:LittleLooter:1.0",
+               "name":"ArkaniaZ - LittleLooter",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":273967,
+                  "MD5":"a4c3cae902cde29553c11db0d4eb1137",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/LittleLooter.jar"
+               }
             },
             {
-              "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2@jar.pack.xz",
-              "name": "Minecraft Forge (scala-continuations-library)",
-              "type": "Library",
-              "artifact": {
-                "size": 7956,
-                "MD5": "ed9b1d27aba8ac4090a3749c4dfc895a",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
-              }
+               "id":"ArkaniaZ:obfuscate:1.0",
+               "name":"ArkaniaZ - obfuscate",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":37885,
+                  "MD5":"cd9a7ba708e9678a1de66865a7c9ae14",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/obfuscate.jar"
+               }
             },
             {
-              "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2@jar.pack.xz",
-              "name": "Minecraft Forge (scala-continuations-plugin)",
-              "type": "Library",
-              "artifact": {
-                "size": 46140,
-                "MD5": "a8232db22a72a981de6b1399eb86dff7",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
-              }
+               "id":"ArkaniaZ:OptiFine:1.0",
+               "name":"ArkaniaZ - OptiFine",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":2444057,
+                  "MD5":"7ec95c57ac1a224d6eb93bd370e4ac37",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/OptiFine.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar.pack.xz",
-              "name": "Minecraft Forge (scala-parser-combinators)",
-              "type": "Library",
-              "artifact": {
-                "size": 85568,
-                "MD5": "2e50a7df17680daadacca69f07f8a16d",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
-              }
+               "id":"ArkaniaZ:oxygen-core:1.0",
+               "name":"ArkaniaZ - oxygen-core",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":591797,
+                  "MD5":"da5b285438699ddadf63d1fc71521ca8",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-core.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-reflect:2.11.1@jar.pack.xz",
-              "name": "Minecraft Forge (scala-reflect)",
-              "type": "Library",
-              "artifact": {
-                "size": 1070312,
-                "MD5": "84e5dc81c10e2bd74c579c9d0332fdd9",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
-              }
+               "id":"ArkaniaZ:oxygen-exchange:1.0",
+               "name":"ArkaniaZ - oxygen-exchange",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":62755,
+                  "MD5":"0de1265c6a70f755ab072faca96e9d10",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-exchange.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-swing_2.11:1.0.1",
-              "name": "Minecraft Forge (scala-swing)",
-              "type": "Library",
-              "artifact": {
-                "size": 736795,
-                "MD5": "1d360289e697022a3f57abaad344b28f",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
-              }
+               "id":"ArkaniaZ:oxygen-groups:1.0",
+               "name":"ArkaniaZ - oxygen-groups",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":109054,
+                  "MD5":"cf323039ce6e555982c6976533fb2352",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-groups.jar"
+               }
             },
             {
-              "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar.pack.xz",
-              "name": "Minecraft Forge (scala-xml)",
-              "type": "Library",
-              "artifact": {
-                "size": 217812,
-                "MD5": "cc891b094a4c32dedc56bfefe9b072ff",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
-              }
+               "id":"ArkaniaZ:oxygen-mail:1.0",
+               "name":"ArkaniaZ - oxygen-mail",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":111843,
+                  "MD5":"9e26e4fd099bdf90afaaa8bbe9799e76",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-mail.jar"
+               }
             },
             {
-              "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar.pack.xz",
-              "name": "Minecraft Forge (akka-actor)",
-              "type": "Library",
-              "artifact": {
-                "size": 746612,
-                "MD5": "25cb22c3078e9fb3f7a861c912924862",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
-              }
+               "id":"ArkaniaZ:oxygen-menu:1.0",
+               "name":"ArkaniaZ - oxygen-menu",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":14515,
+                  "MD5":"3e1c9011fd22cd20fafd037a0549b255",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-menu.jar"
+               }
             },
             {
-              "id": "com.typesafe:config:1.2.1@jar.pack.xz",
-              "name": "Minecraft Forge (typesafe-config)",
-              "type": "Library",
-              "artifact": {
-                "size": 56636,
-                "MD5": "10ec4ccabc4e68aac9cf87165ead5d7d",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
-              }
+               "id":"ArkaniaZ:oxygen-merchants:1.0",
+               "name":"ArkaniaZ - oxygen-merchants",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":184825,
+                  "MD5":"5104b562983b7d68513d59109b3e335c",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-merchants.jar"
+               }
             },
             {
-              "id": "lzma:lzma:0.0.1",
-              "name": "Mojang (LZMA)",
-              "type": "Library",
-              "artifact": {
-                "size": 5762,
-                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
-              }
+               "id":"ArkaniaZ:oxygen-players-list:1.0",
+               "name":"ArkaniaZ - oxygen-players-list",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":28500,
+                  "MD5":"1c24473ef92400593645e6dbd9c6485c",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-players-list.jar"
+               }
             },
             {
-              "id": "net.sf.trove4j:trove4j:3.0.3",
-              "name": "Trove4J",
-              "type": "Library",
-              "artifact": {
-                "size": 2523218,
-                "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
-              }
+               "id":"ArkaniaZ:oxygen-trade:1.0",
+               "name":"ArkaniaZ - oxygen-trade",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":153458,
+                  "MD5":"70c3b71d8e0adba41112abadc210b683",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-trade.jar"
+               }
             },
             {
-              "id": "java3d:vecmath:1.5.2",
-              "name": "Vecmath",
-              "type": "Library",
-              "artifact": {
-                "size": 318956,
-                "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
-              }
+               "id":"ArkaniaZ:TexFix:1.0",
+               "name":"ArkaniaZ - TexFix",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":7052,
+                  "MD5":"241a28a767464fa15f9bd642c2d9f673",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/TexFix.jar"
+               }
             },
             {
-              "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
-              "name": "Jopt-simple",
-              "type": "Library",
-              "artifact": {
-                "size": 78175,
-                "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
-              }
+               "id":"ArkaniaZ:Uplink:1.0",
+               "name":"ArkaniaZ - Uplink",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":1753065,
+                  "MD5":"99b5cc6a6f78cdf04c7c0e67fadb8585",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/Uplink.jar"
+               }
             },
             {
-              "id": "org.apache.maven:maven-artifact:3.5.3",
-              "name": "maven-artifact",
-              "type": "Library",
-              "artifact": {
-                "size": 54961,
-                "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
-              }
+               "id":"ArkaniaZ:Xaeros_Minimap:1.0",
+               "name":"ArkaniaZ - Xaeros_Minimap",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":392796,
+                  "MD5":"220a5c092b3a74c781a535a670c46e72",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/Xaeros_Minimap.jar"
+               }
             },
             {
-              "id": "net.minecraftforge:MercuriusUpdater:1.12.2",
-              "name": "MercuriusUpdater",
-              "type": "Library",
-              "artifact": {
-                "size": 15098,
-                "MD5": "6eb9e61097bee3103a2fdc42746b76a4",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
-              }
+               "id":"config-minimap",
+               "name":"config-minimap",
+               "type":"File",
+               "artifact":{
+                  "size":27391056,
+                  "path":"Modularwarfare/arkaniaz-pack.zip",
+                  "MD5":"6d37918355be24b4af9ec9aafc5475e6",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/arkaniaz-pack.zip"
+               }
+            },
+            {
+               "id":"config-uplink",
+               "name":"config-uplink",
+               "type":"File",
+               "artifact":{
+                  "size":"369",
+                  "path":"config/Uplink.json",
+                  "MD5":"4bf2bdc5e7e255253ed5633bc26b8a60",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/config/Uplink.json"
+               }
             }
-          ]
-        },
-        {
-          "id": "ArkaniaZ:ArkaniaZMenu:1.0",
-          "name": "ArkaniaZMenu",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 16187466,
-            "MD5": "82e3535db9f91c3ab02b6071ad207ecb",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZMenu.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:ArkaniaZVocal:1.0",
-          "name": "ArkaniaZVocal",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 445000,
-            "MD5": "d8bb047f700fca6ac08a88f9abb45d82",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZVocal.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:ArkaniaZMod:1.0",
-          "name": "ArkaniaZMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 18397066,
-            "MD5": "cff48c5087a1ffdae8aca637d5f20375",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZMod.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:backpack:1.0",
-          "name": "ArkaniaZ - backpack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 236435,
-            "MD5": "575669bf0854451ca8e0d2a80869b0c9",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/backpack.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:LittleLooter:1.0",
-          "name": "ArkaniaZ - LittleLooter",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 273967,
-            "MD5": "a4c3cae902cde29553c11db0d4eb1137",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/LittleLooter.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:obfuscate:1.0",
-          "name": "ArkaniaZ - obfuscate",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 37885,
-            "MD5": "cd9a7ba708e9678a1de66865a7c9ae14",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/obfuscate.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:OptiFine:1.0",
-          "name": "ArkaniaZ - OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2444057,
-            "MD5": "7ec95c57ac1a224d6eb93bd370e4ac37",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/OptiFine.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:oxygen-core:1.0",
-          "name": "ArkaniaZ - oxygen-core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 591797,
-            "MD5": "da5b285438699ddadf63d1fc71521ca8",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-core.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:oxygen-exchange:1.0",
-          "name": "ArkaniaZ - oxygen-exchange",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 62755,
-            "MD5": "0de1265c6a70f755ab072faca96e9d10",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-exchange.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:oxygen-groups:1.0",
-          "name": "ArkaniaZ - oxygen-groups",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 109054,
-            "MD5": "cf323039ce6e555982c6976533fb2352",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-groups.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:oxygen-mail:1.0",
-          "name": "ArkaniaZ - oxygen-mail",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 111843,
-            "MD5": "9e26e4fd099bdf90afaaa8bbe9799e76",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-mail.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:oxygen-menu:1.0",
-          "name": "ArkaniaZ - oxygen-menu",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 14515,
-            "MD5": "3e1c9011fd22cd20fafd037a0549b255",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-menu.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:oxygen-merchants:1.0",
-          "name": "ArkaniaZ - oxygen-merchants",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 184825,
-            "MD5": "5104b562983b7d68513d59109b3e335c",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-merchants.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:oxygen-players-list:1.0",
-          "name": "ArkaniaZ - oxygen-players-list",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28500,
-            "MD5": "1c24473ef92400593645e6dbd9c6485c",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-players-list.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:oxygen-trade:1.0",
-          "name": "ArkaniaZ - oxygen-trade",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 153458,
-            "MD5": "70c3b71d8e0adba41112abadc210b683",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-trade.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:TexFix:1.0",
-          "name": "ArkaniaZ - TexFix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7052,
-            "MD5": "241a28a767464fa15f9bd642c2d9f673",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/TexFix.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:Uplink:1.0",
-          "name": "ArkaniaZ - Uplink",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1753065,
-            "MD5": "99b5cc6a6f78cdf04c7c0e67fadb8585",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/Uplink.jar"
-          }
-        },
-        {
-          "id": "ArkaniaZ:Xaeros_Minimap:1.0",
-          "name": "ArkaniaZ - Xaeros_Minimap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 392796,
-            "MD5": "220a5c092b3a74c781a535a670c46e72",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/mods/Xaeros_Minimap.jar"
-          }
-        },
-        {
-          "id": "config-minimap",
-          "name": "config-minimap",
-          "type": "File",
-          "artifact": {
-            "size": 27391056,
-            "path": "Modularwarfare/arkaniaz-pack.zip",
-            "MD5": "6d37918355be24b4af9ec9aafc5475e6",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/arkaniaz-pack.zip"
-          }
-        },
-        {
-          "id": "config-uplink",
-          "name": "config-uplink",
-          "type": "File",
-          "artifact": {
-            "size": "369",
-            "path": "config/Uplink.json",
-            "MD5": "4bf2bdc5e7e255253ed5633bc26b8a60",
-            "url": "https://launcher.arkaniaz.fr/arkaniaz2/files/config/Uplink.json"
-          }
-        }
-      ]
-    }
-  ]
+         ]
+      }
+   ]
 }
