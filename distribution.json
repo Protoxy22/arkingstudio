@@ -1216,7 +1216,27 @@
                   "MD5":"61fcc4ffff205ca261e61d6772debc4d",
                   "url":"http://launcher.arkaniaz.fr/arkaniaz2/files/mods/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar"
                }
-            }
+            },
+            {
+               "id":"PokiCube:texture:1.0",
+               "name":"Texture",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":5654452,
+                  "MD5":"bb682605b1a1fd1f1de267ebe476b7dc",
+                  "url":"http://launcher.arkaniaz.fr/arkaniaz2/files/mods/texture.jar"
+               }
+            },
+            {
+               "id":"PokiCube:furniture:1.0",
+               "name":"Furniture",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":5861930,
+                  "MD5":"b4ae670986d9ab498949ef3cb9a7341c",
+                  "url":"http://launcher.arkaniaz.fr/arkaniaz2/files/mods/furniturepokicube.jar"
+               }
+            },
          ]
       },
       {
