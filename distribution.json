@@ -1214,7 +1214,7 @@
                "artifact":{
                   "size":4696621,
                   "MD5":"61fcc4ffff205ca261e61d6772debc4d",
-                  "url":"http://launcher.arkaniaz.fr/arkaniaz2/files/mods/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar"
+                  "url":"http://launcher.arkaniaz.fr/mods/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar"
                }
             },
             {
@@ -1224,7 +1224,7 @@
                "artifact":{
                   "size":5654452,
                   "MD5":"bb682605b1a1fd1f1de267ebe476b7dc",
-                  "url":"http://launcher.arkaniaz.fr/arkaniaz2/files/mods/texture.jar"
+                  "url":"http://launcher.arkaniaz.fr/mods/texture.jar"
                }
             },
             {
@@ -1234,7 +1234,7 @@
                "artifact":{
                   "size":5861930,
                   "MD5":"b4ae670986d9ab498949ef3cb9a7341c",
-                  "url":"http://launcher.arkaniaz.fr/arkaniaz2/files/mods/furniturepokicube.jar"
+                  "url":"http://launcher.arkaniaz.fr/mods/furniturepokicube.jar"
                }
             }
          ]
@@ -1469,7 +1469,7 @@
                "artifact":{
                   "size":16187466,
                   "MD5":"82e3535db9f91c3ab02b6071ad207ecb",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZMenu.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZMenu.jar"
                }
             },
             {
@@ -1479,7 +1479,7 @@
                "artifact":{
                   "size":445000,
                   "MD5":"d8bb047f700fca6ac08a88f9abb45d82",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZVocal.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZVocal.jar"
                }
             },
             {
@@ -1489,7 +1489,7 @@
                "artifact":{
                   "size":18397066,
                   "MD5":"cff48c5087a1ffdae8aca637d5f20375",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/ArkaniaZMod.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZMod.jar"
                }
             },
             {
@@ -1499,7 +1499,7 @@
                "artifact":{
                   "size":236435,
                   "MD5":"575669bf0854451ca8e0d2a80869b0c9",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/backpack.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/backpack.jar"
                }
             },
             {
@@ -1509,7 +1509,7 @@
                "artifact":{
                   "size":273967,
                   "MD5":"a4c3cae902cde29553c11db0d4eb1137",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/LittleLooter.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/LittleLooter.jar"
                }
             },
             {
@@ -1519,7 +1519,7 @@
                "artifact":{
                   "size":37885,
                   "MD5":"cd9a7ba708e9678a1de66865a7c9ae14",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/obfuscate.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/obfuscate.jar"
                }
             },
             {
@@ -1529,7 +1529,7 @@
                "artifact":{
                   "size":2444057,
                   "MD5":"7ec95c57ac1a224d6eb93bd370e4ac37",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/OptiFine.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/OptiFine.jar"
                }
             },
             {
@@ -1539,7 +1539,7 @@
                "artifact":{
                   "size":591797,
                   "MD5":"da5b285438699ddadf63d1fc71521ca8",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-core.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-core.jar"
                }
             },
             {
@@ -1549,7 +1549,7 @@
                "artifact":{
                   "size":62755,
                   "MD5":"0de1265c6a70f755ab072faca96e9d10",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-exchange.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-exchange.jar"
                }
             },
             {
@@ -1559,7 +1559,7 @@
                "artifact":{
                   "size":109054,
                   "MD5":"cf323039ce6e555982c6976533fb2352",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-groups.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-groups.jar"
                }
             },
             {
@@ -1569,7 +1569,7 @@
                "artifact":{
                   "size":111843,
                   "MD5":"9e26e4fd099bdf90afaaa8bbe9799e76",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-mail.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-mail.jar"
                }
             },
             {
@@ -1579,7 +1579,7 @@
                "artifact":{
                   "size":14515,
                   "MD5":"3e1c9011fd22cd20fafd037a0549b255",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-menu.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-menu.jar"
                }
             },
             {
@@ -1589,7 +1589,7 @@
                "artifact":{
                   "size":184825,
                   "MD5":"5104b562983b7d68513d59109b3e335c",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-merchants.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-merchants.jar"
                }
             },
             {
@@ -1599,7 +1599,7 @@
                "artifact":{
                   "size":28500,
                   "MD5":"1c24473ef92400593645e6dbd9c6485c",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-players-list.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-players-list.jar"
                }
             },
             {
@@ -1609,7 +1609,7 @@
                "artifact":{
                   "size":153458,
                   "MD5":"70c3b71d8e0adba41112abadc210b683",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/oxygen-trade.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-trade.jar"
                }
             },
             {
@@ -1619,7 +1619,7 @@
                "artifact":{
                   "size":7052,
                   "MD5":"241a28a767464fa15f9bd642c2d9f673",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/TexFix.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/TexFix.jar"
                }
             },
             {
@@ -1629,7 +1629,7 @@
                "artifact":{
                   "size":1753065,
                   "MD5":"99b5cc6a6f78cdf04c7c0e67fadb8585",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/Uplink.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/Uplink.jar"
                }
             },
             {
@@ -1639,7 +1639,7 @@
                "artifact":{
                   "size":392796,
                   "MD5":"220a5c092b3a74c781a535a670c46e72",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/mods/Xaeros_Minimap.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/Xaeros_Minimap.jar"
                }
             },
             {
@@ -1650,7 +1650,7 @@
                   "size":27391056,
                   "path":"Modularwarfare/arkaniaz-pack.zip",
                   "MD5":"6d37918355be24b4af9ec9aafc5475e6",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/arkaniaz-pack.zip"
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz-pack.zip"
                }
             },
             {
@@ -1661,7 +1661,7 @@
                   "size":"369",
                   "path":"config/Uplink.json",
                   "MD5":"4bf2bdc5e7e255253ed5633bc26b8a60",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz2/files/config/Uplink.json"
+                  "url":"https://launcher.arkaniaz.fr/config/Uplink.json"
                }
             }
          ]
