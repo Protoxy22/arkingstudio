@@ -1206,6 +1206,16 @@
                   "MD5":"84bf6e5dffb193954119040a15bf5ce9",
                   "url":"https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.12.2-7.1.1-universal.jar"
                }
+            },
+            {
+               "id":"PokiCube:biome:1.0",
+               "name":"Biome",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":4696621,
+                  "MD5":"61fcc4ffff205ca261e61d6772debc4d",
+                  "url":"http://launcher.arkaniaz.fr/www/arkaniaz2/files/mods/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar"
+               }
             }
          ]
       },
