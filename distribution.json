@@ -1229,7 +1229,7 @@
             },
             {
                "id":"PokiCube:furniture:1.0",
-               "name":"Furniture",
+               "name":"Furniturepokicube",
                "type":"ForgeMod",
                "artifact":{
                   "size":5861930,
