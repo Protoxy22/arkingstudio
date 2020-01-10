@@ -1218,6 +1218,16 @@
                }
             },
             {
+               "id":"Pokicube:optifinepoki:1.0",
+               "name":"OptiFinePokiCube",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":11022391,
+                  "MD5":"b00ff14366bca47d4c3387c94242546c",
+                  "url":"https://minegrounds.eu/launcher/files/mods/OptiFine_1.12.2_HD_U_E3.jar"
+               }
+            },
+            {
                "id":"PokiCube:texture:1.0",
                "name":"Texture",
                "type":"ForgeMod",
