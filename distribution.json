@@ -978,7 +978,7 @@
          "id":"pokicube",
          "name":"PokiCube Mod",
          "description":"Serveur PokiCube (Pixelmod)",
-         "icon":"http://pokicube.eu.redirect.franceserv.com/app/webroot/img/icon.png",
+         "icon":"https://studio.arking.fr/img/pokicube.png",
          "version":"Ouverture bientôt",
          "address":"pokicube.eu",
          "minecraftVersion":"1.12.2",
@@ -1253,9 +1253,9 @@
          "id":"arkaniaz",
          "name":"ArkaniaZ Mod",
          "description":"Serveur ArkaniaZ (DayZ Minecraft)",
-         "icon":"https://minegrounds.eu/assets/img/arkaniaz.png",
+         "icon":"https://studio.arking.fr/img/arkaniazlogo.png",
          "version":"0.1.0",
-         "address":"arkaniaz.fr",
+         "address":"studio.arking.fr",
          "minecraftVersion":"1.12.2",
          "mainServer":false,
          "autoconnect":false,
@@ -1497,8 +1497,8 @@
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
                "artifact":{
-                  "size":18397066,
-                  "MD5":"cff48c5087a1ffdae8aca637d5f20375",
+                  "size":18389367,
+                  "MD5":"4a4576e009eb8f6b55133553e50451d6",
                   "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZMod.jar"
                }
             },
@@ -1657,9 +1657,9 @@
                "name":"config-minimap",
                "type":"File",
                "artifact":{
-                  "size":27391056,
+                  "size":27438132,
                   "path":"Modularwarfare/arkaniaz-pack.zip",
-                  "MD5":"6d37918355be24b4af9ec9aafc5475e6",
+                  "MD5":"f4e9f1339f4b987eaf4ed99ba8d546a2",
                   "url":"https://launcher.arkaniaz.fr/arkaniaz-pack.zip"
                }
             },
