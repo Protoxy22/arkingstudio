@@ -1662,17 +1662,6 @@
                   "MD5":"3a099060b6c00cd5a04733e3f74f8f8e",
                   "url":"https://launcher.arkaniaz.fr/arkaniaz-pack.zip"
                }
-            },
-            {
-               "id":"config-uplink",
-               "name":"config-uplink",
-               "type":"File",
-               "artifact":{
-                  "size":"369",
-                  "path":"config/Uplink.json",
-                  "MD5":"4bf2bdc5e7e255253ed5633bc26b8a60",
-                  "url":"https://launcher.arkaniaz.fr/config/Uplink.json"
-               }
             }
          ]
       }
