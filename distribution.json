@@ -1493,26 +1493,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:ArkaniaZSound:1.0",
-               "name":"ArkaniaZSound",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":16014866,
-                  "MD5":"b587a5c7a4791894a3531577e4bbec81",
-                  "url":"https://media.forgecdn.net/files/2825/354/DynamicSurroundings-1.12.2-3.6.0.2.jar"
-               }
-            },
-            {
-               "id":"ArkaniaZ:SoundAPI:1.0",
-               "name":"SoundAPI",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":341728,
-                  "MD5":"00cce3b240365458adcad3e77782358a",
-                  "url":"https://media.forgecdn.net/files/2820/815/OreLib-1.12.2-3.6.0.1.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:ArkaniaZMod:1.0",
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
