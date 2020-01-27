@@ -1503,6 +1503,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:oxygen-grandeconomy:1.0",
+               "name":"oxygen-grandeconomy",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":79288,
+                  "MD5":"d3b5ec98b66b3f79373cdd7a0861ed2f",
+                  "url":"https://media.forgecdn.net/files/2868/627/GrandEconomy-1.12.2-1.3.5.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:ArkaniaZMod:1.0",
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
