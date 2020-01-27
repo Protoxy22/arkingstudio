@@ -1563,6 +1563,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:oxygen-currency:1.0",
+               "name":"ArkaniaZ - oxygen-currency",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":13358,
+                  "MD5":"afea099ade7f5cc94aad8f3cd0bec341",
+                  "url":"https://media.forgecdn.net/files/2862/741/oxygen-cp-grand-economy-1.12.2-0.10.0.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:oxygen-groups:1.0",
                "name":"ArkaniaZ - oxygen-groups",
                "type":"ForgeMod",
