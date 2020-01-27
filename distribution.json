@@ -1493,6 +1493,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:oxygen-daily:1.0",
+               "name":"oxygen-daily",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":77590,
+                  "MD5":"cb20b501f32ff2626f05df4528d29260",
+                  "url":"https://media.forgecdn.net/files/2866/718/oxygen-daily-rewards-1.12.2-0.10.0.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:ArkaniaZMod:1.0",
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
@@ -1547,19 +1557,9 @@
                "name":"ArkaniaZ - oxygen-core",
                "type":"ForgeMod",
                "artifact":{
-                  "size":591797,
-                  "MD5":"da5b285438699ddadf63d1fc71521ca8",
-                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-core.jar"
-               }
-            },
-            {
-               "id":"ArkaniaZ:oxygen-exchange:1.0",
-               "name":"ArkaniaZ - oxygen-exchange",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":62755,
-                  "MD5":"0de1265c6a70f755ab072faca96e9d10",
-                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-exchange.jar"
+                  "size":782681,
+                  "MD5":"1df14dbb71ee650fd8f43478251342c3",
+                  "url":"https://media.forgecdn.net/files/2862/721/oxygen-core-1.12.2-0.10.0.jar"
                }
             },
             {
@@ -1567,9 +1567,9 @@
                "name":"ArkaniaZ - oxygen-groups",
                "type":"ForgeMod",
                "artifact":{
-                  "size":109054,
-                  "MD5":"cf323039ce6e555982c6976533fb2352",
-                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-groups.jar"
+                  "size":115418,
+                  "MD5":"173eb0c4edf7e598075303d37d68f58c",
+                  "url":"https://media.forgecdn.net/files/2862/728/oxygen-groups-1.12.2-0.10.0.jar"
                }
             },
             {
@@ -1577,9 +1577,9 @@
                "name":"ArkaniaZ - oxygen-mail",
                "type":"ForgeMod",
                "artifact":{
-                  "size":111843,
-                  "MD5":"9e26e4fd099bdf90afaaa8bbe9799e76",
-                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-mail.jar"
+                  "size":128680,
+                  "MD5":"cbc58e35eeecb464eab339e681e0faae",
+                  "url":"https://media.forgecdn.net/files/2862/731/oxygen-mail-1.12.2-0.10.0.jar"
                }
             },
             {
@@ -1587,29 +1587,19 @@
                "name":"ArkaniaZ - oxygen-menu",
                "type":"ForgeMod",
                "artifact":{
-                  "size":14515,
-                  "MD5":"3e1c9011fd22cd20fafd037a0549b255",
-                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-menu.jar"
+                  "size":16225,
+                  "MD5":"638f4d528f1f6a628d72369a7bef9106",
+                  "url":"https://media.forgecdn.net/files/2862/732/oxygen-menu-1.12.2-0.10.0.jar"
                }
             },
             {
-               "id":"ArkaniaZ:oxygen-merchants:1.0",
-               "name":"ArkaniaZ - oxygen-merchants",
+               "id":"ArkaniaZ:oxygen-playerlist:1.0",
+               "name":"ArkaniaZ - oxygen-playerlist",
                "type":"ForgeMod",
                "artifact":{
-                  "size":184825,
-                  "MD5":"5104b562983b7d68513d59109b3e335c",
-                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-merchants.jar"
-               }
-            },
-            {
-               "id":"ArkaniaZ:oxygen-players-list:1.0",
-               "name":"ArkaniaZ - oxygen-players-list",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":28500,
-                  "MD5":"1c24473ef92400593645e6dbd9c6485c",
-                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-players-list.jar"
+                  "size":40366,
+                  "MD5":"6e06e0ae29e7059b2bcf0aecbbc3746b",
+                  "url":"https://media.forgecdn.net/files/2862/736/oxygen-players-list-1.12.2-0.10.0.jar"
                }
             },
             {
@@ -1617,9 +1607,9 @@
                "name":"ArkaniaZ - oxygen-trade",
                "type":"ForgeMod",
                "artifact":{
-                  "size":153458,
-                  "MD5":"70c3b71d8e0adba41112abadc210b683",
-                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-trade.jar"
+                  "size":172926,
+                  "MD5":"59d51f1853b335ed1d8165dfc269b311",
+                  "url":"https://media.forgecdn.net/files/2862/738/oxygen-trade-1.12.2-0.10.0.jar"
                }
             },
             {
