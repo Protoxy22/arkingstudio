@@ -1517,8 +1517,8 @@
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
                "artifact":{
-                  "size":21144818,
-                  "MD5":"7af5534abe5e17bc9a93596e9439c17e",
+                  "size":21149101,
+                  "MD5":"e9932e38bd56bcb244eee58f86e792a4",
                   "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZMod.jar"
                }
             },
@@ -1540,16 +1540,6 @@
                   "size":273967,
                   "MD5":"a4c3cae902cde29553c11db0d4eb1137",
                   "url":"https://launcher.arkaniaz.fr/mods/LittleLooter.jar"
-               }
-            },
-            {
-               "id":"ArkaniaZ:obfuscate:1.0",
-               "name":"ArkaniaZ - obfuscate",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":37885,
-                  "MD5":"cd9a7ba708e9678a1de66865a7c9ae14",
-                  "url":"https://launcher.arkaniaz.fr/mods/obfuscate.jar"
                }
             },
             {
@@ -1677,9 +1667,9 @@
                "name":"config-minimap",
                "type":"File",
                "artifact":{
-                  "size":33324093,
+                  "size":33369548,
                   "path":"Modularwarfare/arkaniaz-pack.zip",
-                  "MD5":"f3218764205d887a5dd9018d6ac8191b",
+                  "MD5":"48529d56ef16603953cf0dd021272a25",
                   "url":"https://launcher.arkaniaz.fr/arkaniaz-pack.zip"
                }
             }
