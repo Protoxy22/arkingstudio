@@ -289,12 +289,12 @@
                }
             },
             {
-               "id":"ModularWarfare:mw:0.1",
+               "id":"ModularWarfare:mw:0.2",
                "name":"ModularWarfare",
                "type":"ForgeMod",
                "artifact":{
-                  "size":2137987,
-                  "MD5":"dec8962d03205d9792b430b3d6da141d",
+                  "size":2273501,
+                  "MD5":"698812a14d08f10a98f46c32a34168d7",
                   "url":"https://minegrounds.eu/launcher/files/mods/modularwarfare-0.2.jar"
                }
             },
