@@ -944,9 +944,9 @@
                "name":"officialmw-contentpack",
                "type":"File",
                "artifact":{
-                  "size":"7880375",
+                  "size":"8800462",
                   "path":"ModularWarfare/officialmw.zip",
-                  "MD5":"33e71dcdf1bb57add37db875025ef095",
+                  "MD5":"6ab6ced128e38a0990468331c9c87ea9",
                   "url":"https://minegrounds.eu/launcher/files/ModularWarfare/officialmw.zip"
                }
             },
