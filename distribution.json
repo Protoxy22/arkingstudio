@@ -1228,16 +1228,6 @@
                }
             },
             {
-               "id":"PokiCube:texture:1.0",
-               "name":"Texture",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":5654452,
-                  "MD5":"bb682605b1a1fd1f1de267ebe476b7dc",
-                  "url":"http://launcher.arkaniaz.fr/mods/texture.jar"
-               }
-            },
-            {
                "id":"PokiCube:furniture:1.0",
                "name":"Furniturepokicube",
                "type":"ForgeMod",
