@@ -1218,6 +1218,16 @@
                }
             },
             {
+               "id":"PokiCube:menu:1.0",
+               "name":"Menu",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":1709840,
+                  "MD5":"9ee24b80859d0ed16e144ef79cf98a5f",
+                  "url":"http://launcher.arkaniaz.fr/mods/pokicube-mod-1.0.jar"
+               }
+            },
+            {
                "id":"Pokicube:optifinepoki:1.0",
                "name":"OptiFinePokiCube",
                "type":"ForgeMod",
