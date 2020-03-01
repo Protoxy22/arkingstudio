@@ -20,7 +20,7 @@
          "version":"1.1.4",
          "address":"studio.arking.fr",
          "minecraftVersion":"1.12.2",
-         "mainServer":true,
+         "mainServer":false,
          "autoconnect":false,
          "modules":[
             {
