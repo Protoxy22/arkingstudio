@@ -17,10 +17,10 @@
          "name":"ArkaniaZ Mod",
          "description":"Serveur ArkaniaZ (DayZ Minecraft)",
          "icon":"https://studio.arking.fr/img/arkaniazlogo.png",
-         "version":"0.1.0",
+         "version":"1.1.4",
          "address":"studio.arking.fr",
          "minecraftVersion":"1.12.2",
-         "mainServer":false,
+         "mainServer":true,
          "autoconnect":false,
          "modules":[
             {
@@ -2659,7 +2659,7 @@
          "name":"PokiCube Mod",
          "description":"Serveur PokiCube (Pixelmod)",
          "icon":"https://studio.arking.fr/img/pokicube.png",
-         "version":"Ouverture bientôt",
+         "version":"0.1.0",
          "address":"pokicube.eu",
          "minecraftVersion":"1.12.2",
          "mainServer":false,
