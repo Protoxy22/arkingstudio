@@ -1664,6 +1664,16 @@
                }
             },
             {
+               "id":"Pokicube:pokinfo:1.0",
+               "name":"InfoPoki",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":363162,
+                  "MD5":"fc482b3506412f0d6e8c480787298f23",
+                  "url":"https://raw.githubusercontent.com/Bletch1971/PixelmonInformation/master/7.2/PixelmonInformation-1.12.2-7.2.0-0.3.3.jar"
+               }
+            },
+            {
                "id":"PokiCube:furniture:1.0",
                "name":"Furniturepokicube",
                "type":"ForgeMod",
