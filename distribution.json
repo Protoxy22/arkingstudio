@@ -1638,8 +1638,8 @@
                "name":"Biome",
                "type":"ForgeMod",
                "artifact":{
-                  "size":4702147,
-                  "MD5":"4c1d23b8a58b6aaa9a5204fae3f18393",
+                  "size":4691467,
+                  "MD5":"2f4abc0e14bca7e0bf12c03b077c0fdf",
                   "url":"https://media.forgecdn.net/files/2842/510/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar"
                }
             },
