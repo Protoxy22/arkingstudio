@@ -1674,6 +1674,16 @@
                }
             },
             {
+               "id":"Pokicube:pokibnt:1.0",
+               "name":"pokibnt",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":661061,
+                  "MD5":"9731cc2b2d470412319c664f67f059d0",
+                  "url":"http://launcher.arkaniaz.fr/mods/NBTEdit-1.12-2.0.2.jar"
+               }
+            },
+            {
                "id":"PokiCube:furniture:1.0",
                "name":"Furniturepokicube",
                "type":"ForgeMod",
