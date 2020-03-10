@@ -1664,6 +1664,16 @@
                }
             },
             {
+               "id":"Pokicube:pokicasino:1.0",
+               "name":"pokicasino",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":1061156,
+                  "MD5":"29216f8d749b9df27a3d16d468f935f9",
+                  "url":"https://media.forgecdn.net/files/2626/441/CasinoCraft_1.12.2_v06.jar"
+               }
+            },
+            {
                "id":"Pokicube:pokinfo:1.0",
                "name":"InfoPoki",
                "type":"ForgeMod",
