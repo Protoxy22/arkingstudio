@@ -1405,7 +1405,7 @@
          "name":"PokiCube Mod",
          "description":"Serveur PokiCube (Pixelmod)",
          "icon":"https://studio.arking.fr/img/pokicube.png",
-         "version":"Ouverture bientôt",
+         "version":"Pokemon sur Minecraft v:7.2.0custom",
          "address":"pokicube.eu",
          "minecraftVersion":"1.12.2",
          "mainServer":false,
