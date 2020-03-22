@@ -1684,6 +1684,16 @@
                }
             },
             {
+               "id":"Pokicube:customnpc:1.0",
+               "name":"customnpc",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":10440159,
+                  "MD5":"e8f289624d99a67ee3b78c6524b96b45",
+                  "url":"https://media.forgecdn.net/files/2799/797/CustomNPCs_1.12.2-(01Oct19).jar"
+               }
+            },
+            {
                "id":"Pokicube:pokibnt:1.0",
                "name":"pokibnt",
                "type":"ForgeMod",
