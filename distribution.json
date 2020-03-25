@@ -279,6 +279,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:Emoji:1.0",
+               "name":"emoji",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":479235,
+                  "MD5":"82bf6dcdde1c31f642cfe22796488f7f",
+                  "url":"https://media.forgecdn.net/files/2817/231/Emojicord-1.12.2-1.0.2.15-universal.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:backpack:1.0",
                "name":"ArkaniaZ - backpack",
                "type":"ForgeMod",
@@ -1631,6 +1641,16 @@
                   "size":357857778,
                   "MD5":"279d462b41feb37f4805ded9b1605bbf",
                   "url":"https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.12.2-7.2.2-universal.jar"
+               }
+            },
+            {
+               "id":"PokiCube:Emojipoki:1.0",
+               "name":"emokipoki",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":479235,
+                  "MD5":"82bf6dcdde1c31f642cfe22796488f7f",
+                  "url":"https://media.forgecdn.net/files/2817/231/Emojicord-1.12.2-1.0.2.15-universal.jar"
                }
             },
             {
