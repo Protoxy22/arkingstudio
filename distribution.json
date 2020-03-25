@@ -1743,6 +1743,17 @@
                   "MD5":"1b84f2fec7fdd60e1671188945b09aed",
                   "url":"http://launcher.arkaniaz.fr/mods/furniturepokicube.jar"
                }
+            },
+            {
+               "id":"config-uplink-poki",
+               "name":"config-uplink-poki",
+               "type":"File",
+               "artifact":{
+                  "size":350,
+                  "path":"config/uplink.json",
+                  "MD5":"f795e81572893c2c25129842495c586f",
+                  "url":"https://launcher.arkaniaz.fr/Uplink-pokicube.json"
+               }
             }
          ]
       }
