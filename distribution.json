@@ -1715,6 +1715,16 @@
                }
             },
             {
+               "id":"Pokicube:Uplinkpoki:1.0",
+               "name":"Pokicube - Uplinkpoki",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":1753065,
+                  "MD5":"99b5cc6a6f78cdf04c7c0e67fadb8585",
+                  "url":"https://launcher.arkaniaz.fr/mods/Uplink.jar"
+               }
+            },
+            {
                "id":"Pokicube:customnpc:1.0",
                "name":"customnpc",
                "type":"ForgeMod",
