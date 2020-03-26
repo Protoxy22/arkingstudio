@@ -1689,19 +1689,9 @@
                "name":"OptiFinePokiCube",
                "type":"ForgeMod",
                "artifact":{
-                  "size":11022391,
-                  "MD5":"b00ff14366bca47d4c3387c94242546c",
-                  "url":"https://minegrounds.eu/launcher/files/mods/OptiFine_1.12.2_HD_U_E3.jar"
-               }
-            },
-            {
-               "id":"Pokicube:pokicasino:1.0",
-               "name":"pokicasino",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":1061156,
-                  "MD5":"29216f8d749b9df27a3d16d468f935f9",
-                  "url":"https://media.forgecdn.net/files/2626/441/CasinoCraft_1.12.2_v06.jar"
+                  "size":2598821,
+                  "MD5":"043ac1db6f7441ea4cf31bcb621aff0b",
+                  "url":"https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_F5.jar&x=08a6cec4b0050a82af316ed92d16333c"
                }
             },
             {
