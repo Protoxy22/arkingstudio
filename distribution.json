@@ -456,7 +456,7 @@
          "id":"minegrounds",
          "name":"Minegrounds Mod",
          "description":"Serveur Minegrounds (Gunbox, Battlegrounds)",
-         "icon":"https://minegrounds.eu/assets/img/SmallLogo.png",
+         "icon":"https://studio.arking.fr/img/mineground.png",
          "version":"0.4.1",
          "address":"minegrounds.eu",
          "minecraftVersion":"1.12.2",
