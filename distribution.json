@@ -680,8 +680,8 @@
                "name":"Minegrounds - Core",
                "type":"ForgeMod",
                "artifact":{
-                  "size":37466307,
-                  "MD5":"818cbe99c939629e1fd335a4fcc50cc5",
+                  "size":37466310,
+                  "MD5":"37d286c9e400a2b89b0c4af40e25e22a",
                   "url":"https://minegrounds.eu/launcher/files/mods/minegrounds-1.0.jar"
                }
             },
@@ -690,8 +690,8 @@
                "name":"Minegrounds - Blocks",
                "type":"ForgeMod",
                "artifact":{
-                  "size":17194152,
-                  "MD5":"94de90bd969d3654b56d93a4e1bc3008",
+                  "size":5479890,
+                  "MD5":"c7188813054bc7a57b1ecaaa3a7b0a6b",
                   "url":"https://minegrounds.eu/launcher/files/mods/blocks-1.0.jar"
                }
             },
@@ -740,8 +740,8 @@
                "name":"ModularWarfare",
                "type":"ForgeMod",
                "artifact":{
-                  "size":2274607,
-                  "MD5":"aa2e2215307096cc4678bb94213c9c06",
+                  "size":2274403,
+                  "MD5":"92e739d55989b0fc82485b21b92e333d",
                   "url":"https://minegrounds.eu/launcher/files/mods/modularwarfare-0.2.jar"
                }
             },
