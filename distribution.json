@@ -1398,6 +1398,17 @@
                }
             },
             {
+               "id":"w44-contentpack",
+               "name":"w44-contentpack",
+               "type":"File",
+               "artifact":{
+                  "size":"4632508",
+                  "path":"ModularWarfare/w44.zip",
+                  "MD5":"1cef68d0d9d27967dc8bf031c59f2a14",
+                  "url":"https://minegrounds.eu/launcher/files/ModularWarfare/w44.zip"
+               }
+            },
+            {
                "id":"config",
                "name":"config",
                "type":"File",
