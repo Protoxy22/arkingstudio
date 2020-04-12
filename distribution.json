@@ -10,7 +10,7 @@
          "name":"ArkaniaZ Mod",
          "description":"Serveur ArkaniaZ (DayZ Minecraft)",
          "icon":"https://studio.arking.fr/img/arkaniazlogo.png",
-         "version":"1.2.1",
+         "version":"1.2.3",
          "address":"studio.arking.fr",
          "minecraftVersion":"1.12.2",
          "mainServer":false,
@@ -1730,8 +1730,8 @@
                "name":"pokibnt",
                "type":"ForgeMod",
                "artifact":{
-                  "size":1742406 ,
-                  "MD5":"94453f91b96ea0d400f63b7824809dec",
+                  "size":8527939 ,
+                  "MD5":"1c1e902ef7a238f31dff115fdf21f57f",
                   "url":"http://launcher.arkaniaz.fr/mods/NBTEdit-1.12-2.0.2.jar"
                }
             },
