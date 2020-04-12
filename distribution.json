@@ -1437,7 +1437,7 @@
          "name":"PokiCube Mod",
          "description":"Serveur PokiCube (Pixelmod)",
          "icon":"https://studio.arking.fr/img/pokicube.png",
-         "version":"0.3.2",
+         "version":"0.3.5",
          "address":"pokicube.eu",
          "minecraftVersion":"1.12.2",
          "mainServer":false,
