@@ -1124,6 +1124,15 @@
                   "path":"resources/models/guns/p88/ammo.obj",
                   "url":"https://minegrounds.eu/launcher/files/resources/models/guns/p88/ammo.obj"
                }
+            },            {
+               "id":"rcraft.files:00000033:2019-07-22",
+               "name":"body",
+               "type":"File",
+               "artifact":{
+                  "size":"480920",
+                  "path":"resources/models/guns/raygun/body.obj",
+                  "url":"https://minegrounds.eu/launcher/files/resources/models/guns/raygun/body.obj"
+               }
             },
             {
                "id":"rcraft.files:00000033:2019-07-22",
@@ -1402,9 +1411,9 @@
                "name":"w44-contentpack",
                "type":"File",
                "artifact":{
-                  "size":"4632508",
+                  "size":"4884055",
                   "path":"ModularWarfare/w44.zip",
-                  "MD5":"1cef68d0d9d27967dc8bf031c59f2a14",
+                  "MD5":"36588331618ae890242d2501d9e8d9f0",
                   "url":"https://minegrounds.eu/launcher/files/ModularWarfare/w44.zip"
                }
             },
