@@ -1739,8 +1739,8 @@
                "name":"pokibnt",
                "type":"ForgeMod",
                "artifact":{
-                  "size":8527939 ,
-                  "MD5":"1c1e902ef7a238f31dff115fdf21f57f",
+                  "size":12764595 ,
+                  "MD5":"9348a31093868689ae33d6f6ff5634ce",
                   "url":"http://launcher.arkaniaz.fr/mods/NBTEdit-1.12-2.0.2.jar"
                }
             },
@@ -1762,6 +1762,16 @@
                   "size":9943505 ,
                   "MD5":"ef05161b3a366a32f56e08798bbe4eb0",
                   "url":"http://launcher.arkaniaz.fr/mods/pokicubefurniture.jar"
+               }
+            },
+            {
+               "id":"PokiCube:gameshark:1.0",
+               "name":"gameshark",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":81994 ,
+                  "MD5":"bdac704d9a6d6337bc533d6f02461980",
+                  "url":"https://pixelmonmod.com/mirror/sidemods/gameshark/6.0.4/Gameshark-1.12.2-6.0.4-universal.jar"
                }
             },
             {
