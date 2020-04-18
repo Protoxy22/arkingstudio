@@ -740,8 +740,8 @@
                "name":"ModularWarfare",
                "type":"ForgeMod",
                "artifact":{
-                  "size":2570141,
-                  "MD5":"3c36351a2f32f82c7244ac03dcd2a287",
+                  "size":2575466,
+                  "MD5":"f5a4bf7530613180c98e61f349e6eb2d",
                   "url":"https://minegrounds.eu/launcher/files/mods/modularwarfare-0.2.jar"
                }
             },
@@ -1411,9 +1411,9 @@
                "name":"w44-contentpack",
                "type":"File",
                "artifact":{
-                  "size":"4884055",
+                  "size":"4882539",
                   "path":"ModularWarfare/w44.zip",
-                  "MD5":"36588331618ae890242d2501d9e8d9f0",
+                  "MD5":"374a9a4c9e4fbd0bcd81025d249f4cd8",
                   "url":"https://minegrounds.eu/launcher/files/ModularWarfare/w44.zip"
                }
             },
