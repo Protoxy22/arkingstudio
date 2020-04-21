@@ -676,12 +676,12 @@
                ]
             },
             {
-               "id":"Minegrounds:minegrounds:0.2.5",
+               "id":"Minegrounds:minegrounds:0.3.0",
                "name":"Minegrounds - Core",
                "type":"ForgeMod",
                "artifact":{
-                  "size":39052642,
-                  "MD5":"1a7b640054240f85306bde91e7c6aa00",
+                  "size":39051903,
+                  "MD5":"aea0893726a0c0a998b52f94635806b9",
                   "url":"https://minegrounds.eu/launcher/files/mods/minegrounds-1.0.jar"
                }
             },
