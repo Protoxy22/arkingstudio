@@ -1745,6 +1745,26 @@
                }
             },
             {
+               "id":"Pokicube:oxygencore:1.0",
+               "name":"oxygencore",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":876876 ,
+                  "MD5":"1dfc67bc86e009e59f9c6628bcb5d2fd",
+                  "url":"https://media.forgecdn.net/files/2905/353/oxygen-core-1.12.2-0.11.0.jar"
+               }
+            },
+            {
+               "id":"Pokicube:oxygenday:1.0",
+               "name":"oxygenday",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":87389 ,
+                  "MD5":"82b081f3a384ae3b2bfa52e2bb747cbc",
+                  "url":"https://media.forgecdn.net/files/2905/356/oxygen-daily-rewards-1.12.2-0.11.0.jar"
+               }
+            },
+            {
                "id":"PokiCube:optifinepoki:1.0",
                "name":"OptiFine",
                "type":"ForgeMod",
