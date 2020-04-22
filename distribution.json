@@ -696,6 +696,26 @@
                }
             },
             {
+            "id":"Minegrounds:cam:1.0.0",
+               "name":"Minegrounds - Cam",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":39051903,
+                  "MD5":"aea0893726a0c0a998b52f94635806b9",
+                  "url":"https://minegrounds.eu/launcher/files/mods/CMDCam_v1.4.7_mc1.12.2.jar"
+               }
+            },
+            {
+            "id":"Minegrounds:cam_dep:1.0.0",
+               "name":"Minegrounds - Cam_Dep",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":39051903,
+                  "MD5":"aea0893726a0c0a998b52f94635806b9",
+                  "url":"https://minegrounds.eu/launcher/files/mods/CreativeCore_v1.10.10_mc1.12.2.jar"
+               }
+            },
+            {
                "id":"EngineersDecor:eg:1.0.9",
                "name":"EngineersDecor",
                "type":"ForgeMod",
