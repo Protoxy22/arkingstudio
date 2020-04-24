@@ -388,16 +388,6 @@
                   "url":"https://media.forgecdn.net/files/2905/372/oxygen-shop-1.12.2-0.11.0.jar"
                }
             },
-             {
-               "id":"ArkaniaZ:oxygen-market:1.0",
-               "name":"ArkaniaZ - oxygen-market",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":175569,
-                  "MD5":"d01626b9998fd319951c7a8b3d62505b",
-                  "url":"https://media.forgecdn.net/files/2905/364/oxygen-market-1.12.2-0.11.0.jar"
-               }
-            },
             {
                "id":"ArkaniaZ:TexFix:1.0",
                "name":"ArkaniaZ - TexFix",
