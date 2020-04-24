@@ -686,7 +686,7 @@
                }
             },
             {
-               "id":"Minegrounds:minegroundsblocks:1.0",
+               "id":"Minegrounds:minegroundsblocks:1.1",
                "name":"Minegrounds - Blocks",
                "type":"ForgeMod",
                "artifact":{
