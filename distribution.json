@@ -273,9 +273,19 @@
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
                "artifact":{
-                  "size":21543265,
-                  "MD5":"d1ba0cdce697ed1626a75eb3460fb647",
+                  "size":21436782,
+                  "MD5":"8e768f18423c2f5cbbd9ee7b57139343",
                   "url":"https://launcher.arkaniaz.fr/0305/ArkaniaZMod.jar"
+               }
+            },
+            {
+               "id":"ArkaniaZ:ArkaniaZBackpack:1.0",
+               "name":"ArkaniaZBackpack",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":1144842,
+                  "MD5":"71071cbf458cec0ac41f9754055f349c",
+                  "url":"https://launcher.arkaniaz.fr/0305/ArkaniaZBackpack.jar"
                }
             },
             {
