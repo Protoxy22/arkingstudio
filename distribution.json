@@ -319,6 +319,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:Thirst:1.0",
+               "name":"ArkaniaZ - Thirst",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":350466,
+                  "MD5":"8176a7efec5202f9a18f5244b36a323f",
+                  "url":"https://media.forgecdn.net/files/2877/165/SimpleDifficulty-1.12.2-0.2.4.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:oxygen-core:1.0",
                "name":"ArkaniaZ - oxygen-core",
                "type":"ForgeMod",
