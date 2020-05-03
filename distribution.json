@@ -273,9 +273,9 @@
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
                "artifact":{
-                  "size":21463766,
-                  "MD5":"05bddc86d7a10ca982ed6b86f4f93655",
-                  "url":"https://launcher.arkaniaz.fr/0205/ArkaniaZMod.jar"
+                  "size":21543265,
+                  "MD5":"d1ba0cdce697ed1626a75eb3460fb647",
+                  "url":"https://launcher.arkaniaz.fr/0305/ArkaniaZMod.jar"
                }
             },
             {
@@ -286,16 +286,6 @@
                   "size":479235,
                   "MD5":"82bf6dcdde1c31f642cfe22796488f7f",
                   "url":"https://media.forgecdn.net/files/2817/231/Emojicord-1.12.2-1.0.2.15-universal.jar"
-               }
-            },
-            {
-               "id":"ArkaniaZ:backpack:1.0",
-               "name":"ArkaniaZ - backpack",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":236435,
-                  "MD5":"575669bf0854451ca8e0d2a80869b0c9",
-                  "url":"https://launcher.arkaniaz.fr/mods/backpack.jar"
                }
             },
             {
