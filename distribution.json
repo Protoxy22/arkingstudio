@@ -433,9 +433,9 @@
                "name":"ArkaniaZ - Sound",
                "type":"ForgeMod",
                "artifact":{
-                  "size":15929762,
-                  "MD5":"1a0d50a34941865ff091a492e0612502",
-                  "url":"https://media.forgecdn.net/files/2922/489/DynamicSurroundings-1.12.2-3.6.1.0.jar"
+                  "size":17858641,
+                  "MD5":"1eacaac0819f0bb52a9af96450455dd0",
+                  "url":"https://launcher.arkaniaz.fr/mods/sound-1.0.jar"
                }
             },
             {
@@ -446,16 +446,6 @@
                   "size":418983,
                   "MD5":"0f716df96ff28ec2a60f4db5c1f692ab",
                   "url":"https://media.forgecdn.net/files/2853/878/Xaeros_Minimap_FP1.19.5_Forge_1.12.jar"
-               }
-            },
-            {
-               "id":"ArkaniaZ:orelib:1.0",
-               "name":"ArkaniaZ - Orelib",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":341728,
-                  "MD5":"00cce3b240365458adcad3e77782358a",
-                  "url":"https://media.forgecdn.net/files/2820/815/OreLib-1.12.2-3.6.0.1.jar"
                }
             },
             {
