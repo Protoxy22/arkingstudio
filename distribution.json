@@ -279,6 +279,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:3dsound:1.0",
+               "name":"3dsound",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":30822,
+                  "MD5":"7ed3abba5cbec1ee7e062c9caabfc2ad",
+                  "url":"https://launcher.arkaniaz.fr/1105/ArkaniaZS.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:ArkaniaZMod:1.0",
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
@@ -468,6 +478,17 @@
                   "path":"config/uplink.json",
                   "MD5":"ddca8ddcbe272d771ebd157719700f5c",
                   "url":"https://launcher.arkaniaz.fr/uplink.json"
+               }
+            },
+            {
+               "id":"config-sound",
+               "name":"config-sound",
+               "type":"File",
+               "artifact":{
+                  "size":5385,
+                  "path":"config/soundphysics.cfg",
+                  "MD5":"b9d00586962a110f381098ccd4a1e26b",
+                  "url":"https://launcher.arkaniaz.fr/1105/soundphysics.cfg"
                }
             }
          ]
