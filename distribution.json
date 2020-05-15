@@ -365,7 +365,7 @@
                "artifact":{
                   "size":118396,
                   "MD5":"c7a43333a85273690a11a6fe3cc64572",
-                  "url":"https://media.forgecdn.net/files/2905/361/oxygen-groups-1.12.2-0.11.0.jar"
+                  "url":"http://5.135.103.187/oxygen-groups-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -375,7 +375,7 @@
                "artifact":{
                   "size":143221,
                   "MD5":"248d7411fe515d4a239d35a2635cd4b5",
-                  "url":"https://media.forgecdn.net/files/2905/363/oxygen-mail-1.12.2-0.11.0.jar"
+                  "url":"http://5.135.103.187/oxygen-mail-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -385,7 +385,7 @@
                "artifact":{
                   "size":25111,
                   "MD5":"8bd24bedb96fe68838573bb2399a2013",
-                  "url":"https://media.forgecdn.net/files/2905/366/oxygen-menu-1.12.2-0.11.0.jar"
+                  "url":"http://5.135.103.187/oxygen-menu-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -395,7 +395,7 @@
                "artifact":{
                   "size":40987,
                   "MD5":"97bd84aed574cf30ba02ccf10cf97bda",
-                  "url":"https://media.forgecdn.net/files/2905/371/oxygen-players-list-1.12.2-0.11.0.jar"
+                  "url":"http://5.135.103.187/oxygen-players-list-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -405,7 +405,7 @@
                "artifact":{
                   "size":83210,
                   "MD5":"0841e802e2c26c7a44a47976edfc9369",
-                  "url":"https://media.forgecdn.net/files/2905/372/oxygen-shop-1.12.2-0.11.0.jar"
+                  "url":"http://5.135.103.187/oxygen-shop-1.12.2-0.11.0.jar"
                }
             },
             {
