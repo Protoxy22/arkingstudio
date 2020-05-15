@@ -275,7 +275,7 @@
                "artifact":{
                   "size":30822,
                   "MD5":"7ed3abba5cbec1ee7e062c9caabfc2ad",
-                  "url":"https://launcher.arkaniaz.fr/1105/ArkaniaZS.jar"
+                  "url":"http://5.135.103.187/ArkaniaZS.jar"
                }
             },
             {
@@ -285,7 +285,7 @@
                "artifact":{
                   "size":20453767,
                   "MD5":"03d32421addf414cc132afd4a0e0be05",
-                  "url":"https://launcher.arkaniaz.fr/1305/ArkaniaZMod.jar"
+                  "url":"http://5.135.103.187/ArkaniaZMod.jar"
                }
             },
             {
@@ -295,7 +295,7 @@
                "artifact":{
                   "size":77938,
                   "MD5":"7ac155ecce3770a6e276ee808f83ac07",
-                  "url":"https://launcher.arkaniaz.fr/1305/ArkaniaZBackpack.jar"
+                  "url":"http://5.135.103.187/ArkaniaZBackpack.jar"
                }
             },
             {
@@ -315,7 +315,7 @@
                "artifact":{
                   "size":273967,
                   "MD5":"a4c3cae902cde29553c11db0d4eb1137",
-                  "url":"https://launcher.arkaniaz.fr/mods/LittleLooter.jar"
+                  "url":"http://5.135.103.187/LittleLooter.jar"
                }
             },
             {
@@ -325,7 +325,7 @@
                "artifact":{
                   "size":2444057,
                   "MD5":"7ec95c57ac1a224d6eb93bd370e4ac37",
-                  "url":"https://launcher.arkaniaz.fr/mods/OptiFine.jar"
+                  "url":"http://5.135.103.187/OptiFine.jar"
                }
             },
             {
@@ -415,7 +415,7 @@
                "artifact":{
                   "size":7052,
                   "MD5":"241a28a767464fa15f9bd642c2d9f673",
-                  "url":"https://launcher.arkaniaz.fr/mods/TexFix.jar"
+                  "url":"http://5.135.103.187/TexFix.jar"
                }
             },
             {
@@ -425,7 +425,7 @@
                "artifact":{
                   "size":1753065,
                   "MD5":"99b5cc6a6f78cdf04c7c0e67fadb8585",
-                  "url":"https://launcher.arkaniaz.fr/mods/Uplink.jar"
+                  "url":"http://5.135.103.187/Uplink.jar"
                }
             },
             {
@@ -435,7 +435,7 @@
                "artifact":{
                   "size":17858641,
                   "MD5":"1eacaac0819f0bb52a9af96450455dd0",
-                  "url":"https://launcher.arkaniaz.fr/mods/sound-1.0.jar"
+                  "url":"http://5.135.103.187/sound-1.0.jar"
                }
             },
             {
