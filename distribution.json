@@ -791,7 +791,7 @@
                "name":"pokibnt",
                "type":"ForgeMod",
                "artifact":{
-                  "size":15696183 ,
+                  "size":15696183,
                   "MD5":"878d545c342aa13270e2de0d7b402e31",
                   "url":"http://launcher.arkaniaz.fr/mods/NBTEdit-1.12-2.0.2.jar"
                }
@@ -801,7 +801,7 @@
                "name":"oxygencore",
                "type":"ForgeMod",
                "artifact":{
-                  "size":876876 ,
+                  "size":876876,
                   "MD5":"1dfc67bc86e009e59f9c6628bcb5d2fd",
                   "url":"https://media.forgecdn.net/files/2905/353/oxygen-core-1.12.2-0.11.0.jar"
                }
@@ -811,7 +811,7 @@
                "name":"oxygenday",
                "type":"ForgeMod",
                "artifact":{
-                  "size":87389 ,
+                  "size":87389,
                   "MD5":"82b081f3a384ae3b2bfa52e2bb747cbc",
                   "url":"https://media.forgecdn.net/files/2905/356/oxygen-daily-rewards-1.12.2-0.11.0.jar"
                }
@@ -831,7 +831,7 @@
                "name":"Furniturepokicube",
                "type":"ForgeMod",
                "artifact":{
-                  "size":9943505 ,
+                  "size":9943505,
                   "MD5":"ef05161b3a366a32f56e08798bbe4eb0",
                   "url":"http://launcher.arkaniaz.fr/mods/pokicubefurniture.jar"
                }
@@ -841,7 +841,7 @@
                "name":"gameshark",
                "type":"ForgeMod",
                "artifact":{
-                  "size":81994 ,
+                  "size":81994,
                   "MD5":"bdac704d9a6d6337bc533d6f02461980",
                   "url":"https://pixelmonmod.com/mirror/sidemods/gameshark/6.0.4/Gameshark-1.12.2-6.0.4-universal.jar"
                }
@@ -860,3 +860,4 @@
          ]
       }
    ]
+}
