@@ -183,7 +183,7 @@
                      "artifact":{
                         "size":2523218,
                         "MD5":"8fc4d4e0129244f9fd39650c5f30feb2",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
+                        "url":"http://5.135.103.187/trove4j-3.0.3.jar"
                      }
                   },
                   {
@@ -193,7 +193,7 @@
                      "artifact":{
                         "size":318956,
                         "MD5":"e5d2b7f46c4800a32f62ce75676a5710",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
+                        "url":"http://5.135.103.187/vecmath-1.5.2.jar"
                      }
                   },
                   {
@@ -203,7 +203,7 @@
                      "artifact":{
                         "size":78175,
                         "MD5":"0a5ec84e23df9d7cfb4063bc55f2744c",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
+                        "url":"http://5.135.103.187/jopt-simple-5.0.3.jar"
                      }
                   },
                   {
@@ -213,7 +213,7 @@
                      "artifact":{
                         "size":54961,
                         "MD5":"7741ebf29690ee7d9dde9cf4376347fc",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
+                        "url":"http://5.135.103.187/maven-artifact-3.5.3.jar"
                      }
                   },
                   {
