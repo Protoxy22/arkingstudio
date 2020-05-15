@@ -127,16 +127,6 @@
                      }
                   },
                   {
-                     "id":"org.scala-lang:scala-swing_2.11:1.0.1",
-                     "name":"Minecraft Forge (scala-swing)",
-                     "type":"Library",
-                     "artifact":{
-                        "size":736795,
-                        "MD5":"1d360289e697022a3f57abaad344b28f",
-                        "url":"http://5.135.103.187/scala-swing_2.11-1.0.1.jar"
-                     }
-                  },
-                  {
                      "id":"org.scala-lang:scala-xml_2.11:1.0.2@jar.pack.xz",
                      "name":"Minecraft Forge (scala-xml)",
                      "type":"Library",
