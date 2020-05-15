@@ -23,7 +23,7 @@
                "artifact":{
                   "size":5035170,
                   "MD5":"8112748766BA92310141FEF972FC1AE6",
-                  "url":"5.135.103.187/forge-1.12.2-14.23.5.2838-universal.jar"
+                  "url":"https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar"
                },
                "subModules":[
                   {
@@ -33,7 +33,7 @@
                      "artifact":{
                         "size":32999,
                         "MD5":"934b2d91c7c5be4a49577c9e6b40e8da",
-                        "url":"5.135.103.187/launchwrapper-1.12.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
                      }
                   },
                   {
@@ -43,7 +43,7 @@
                      "artifact":{
                         "size":247787,
                         "MD5":"f5ad16c7f0338b541978b0430d51dc83",
-                        "url":"5.135.103.187/asm-all-5.2.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
                      }
                   },
                   {
@@ -53,7 +53,7 @@
                      "artifact":{
                         "size":248566,
                         "MD5":"f251ba666cccb260ff7215b2cbeee8d4",
-                        "url":"5.135.103.187/jline-2.13.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
                      }
                   },
                   {
@@ -63,7 +63,7 @@
                      "artifact":{
                         "size":1474672,
                         "MD5":"379c15c4f724421c6d5d7aecedaf87a6",
-                        "url":"5.135.103.187/scala-library-2.11.1.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
                      }
                   },
                   {
@@ -73,7 +73,7 @@
                      "artifact":{
                         "size":3076920,
                         "MD5":"7d89e952f2d5c74577310cd2c28e3f20",
-                        "url":"5.135.103.187/scala-compiler-2.11.1.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
                      }
                   },
                   {
@@ -83,7 +83,7 @@
                      "artifact":{
                         "size":21324,
                         "MD5":"04e3428b2600ace33c7ae2bf1f6c0a4c",
-                        "url":"5.135.103.187/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
                      }
                   },
                   {
@@ -93,7 +93,7 @@
                      "artifact":{
                         "size":7956,
                         "MD5":"ed9b1d27aba8ac4090a3749c4dfc895a",
-                        "url":"5.135.103.187/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
                      }
                   },
                   {
@@ -103,7 +103,7 @@
                      "artifact":{
                         "size":46140,
                         "MD5":"a8232db22a72a981de6b1399eb86dff7",
-                        "url":"5.135.103.187/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
                      }
                   },
                   {
@@ -113,7 +113,7 @@
                      "artifact":{
                         "size":85568,
                         "MD5":"2e50a7df17680daadacca69f07f8a16d",
-                        "url":"5.135.103.187/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
                      }
                   },
                   {
@@ -123,7 +123,7 @@
                      "artifact":{
                         "size":1070312,
                         "MD5":"84e5dc81c10e2bd74c579c9d0332fdd9",
-                        "url":"5.135.103.187/scala-reflect-2.11.1.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
                      }
                   },
                   {
@@ -133,7 +133,7 @@
                      "artifact":{
                         "size":736795,
                         "MD5":"1d360289e697022a3f57abaad344b28f",
-                        "url":"5.135.103.187/scala-swing_2.11-1.0.1.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
                      }
                   },
                   {
@@ -143,7 +143,7 @@
                      "artifact":{
                         "size":217812,
                         "MD5":"cc891b094a4c32dedc56bfefe9b072ff",
-                        "url":"5.135.103.187/scala-xml_2.11-1.0.2.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
                      }
                   },
                   {
@@ -153,7 +153,7 @@
                      "artifact":{
                         "size":746612,
                         "MD5":"25cb22c3078e9fb3f7a861c912924862",
-                        "url":"5.135.103.187/akka-actor_2.11-2.3.3.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
                      }
                   },
                   {
@@ -163,7 +163,7 @@
                      "artifact":{
                         "size":56636,
                         "MD5":"10ec4ccabc4e68aac9cf87165ead5d7d",
-                        "url":"5.135.103.187/config-1.2.1.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
                      }
                   },
                   {
@@ -173,7 +173,7 @@
                      "artifact":{
                         "size":5762,
                         "MD5":"a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                        "url":"5.135.103.187/lzma-0.0.1.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
                      }
                   },
                   {
@@ -183,7 +183,7 @@
                      "artifact":{
                         "size":2523218,
                         "MD5":"8fc4d4e0129244f9fd39650c5f30feb2",
-                        "url":"5.135.103.187/trove4j-3.0.3.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
                      }
                   },
                   {
@@ -193,7 +193,7 @@
                      "artifact":{
                         "size":318956,
                         "MD5":"e5d2b7f46c4800a32f62ce75676a5710",
-                        "url":"5.135.103.187/vecmath-1.5.2.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
                      }
                   },
                   {
@@ -203,7 +203,7 @@
                      "artifact":{
                         "size":78175,
                         "MD5":"0a5ec84e23df9d7cfb4063bc55f2744c",
-                        "url":"5.135.103.187/jopt-simple-5.0.3.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
                      }
                   },
                   {
@@ -213,7 +213,7 @@
                      "artifact":{
                         "size":54961,
                         "MD5":"7741ebf29690ee7d9dde9cf4376347fc",
-                        "url":"5.135.103.187/maven-artifact-3.5.3.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
                      }
                   },
                   {
@@ -223,7 +223,7 @@
                      "artifact":{
                         "size":15098,
                         "MD5":"6eb9e61097bee3103a2fdc42746b76a4",
-                        "url":"5.135.103.187/MercuriusUpdater-1.12.2.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
                      }
                   }
                ]
@@ -235,7 +235,7 @@
                "artifact":{
                   "size":15699555,
                   "MD5":"65a2481f377d82c00b024c29559450a8",
-                  "url":"5.135.103.187/ArkaniaZMenu.jar"
+                  "url":"https://launcher.arkaniaz.fr/1305/ArkaniaZMenu.jar"
                }
             },
             {
@@ -245,7 +245,7 @@
                "artifact":{
                   "size":445000,
                   "MD5":"d8bb047f700fca6ac08a88f9abb45d82",
-                  "url":"5.135.103.187/ArkaniaZVocal.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZVocal.jar"
                }
             },
             {
@@ -255,7 +255,7 @@
                "artifact":{
                   "size":87389,
                   "MD5":"82b081f3a384ae3b2bfa52e2bb747cbc",
-                  "url":"5.135.103.187/oxygen-daily-rewards-1.12.2-0.11.0.jar"
+                  "url":"https://media.forgecdn.net/files/2905/356/oxygen-daily-rewards-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -265,7 +265,7 @@
                "artifact":{
                   "size":175569,
                   "MD5":"d01626b9998fd319951c7a8b3d62505b",
-                  "url":"5.135.103.187/oxygen-market-1.12.2-0.11.0.jar"
+                  "url":"https://media.forgecdn.net/files/2905/364/oxygen-market-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -275,7 +275,7 @@
                "artifact":{
                   "size":66729,
                   "MD5":"65db898a5a63b36265333755c26b66d5",
-                  "url":"5.135.103.187/GrandEconomy-1.12.2-1.4.1.jar"
+                  "url":"https://media.forgecdn.net/files/2938/122/GrandEconomy-1.12.2-1.4.1.jar"
                }
             },
             {
@@ -285,7 +285,7 @@
                "artifact":{
                   "size":30822,
                   "MD5":"7ed3abba5cbec1ee7e062c9caabfc2ad",
-                  "url":"5.135.103.187/ArkaniaZS.jar"
+                  "url":"https://launcher.arkaniaz.fr/1105/ArkaniaZS.jar"
                }
             },
             {
@@ -295,7 +295,7 @@
                "artifact":{
                   "size":20453767,
                   "MD5":"03d32421addf414cc132afd4a0e0be05",
-                  "url":"5.135.103.187/ArkaniaZMod.jar"
+                  "url":"https://launcher.arkaniaz.fr/1305/ArkaniaZMod.jar"
                }
             },
             {
@@ -305,7 +305,7 @@
                "artifact":{
                   "size":77938,
                   "MD5":"7ac155ecce3770a6e276ee808f83ac07",
-                  "url":"5.135.103.187/ArkaniaZBackpack.jar"
+                  "url":"https://launcher.arkaniaz.fr/1305/ArkaniaZBackpack.jar"
                }
             },
             {
@@ -315,7 +315,7 @@
                "artifact":{
                   "size":479235,
                   "MD5":"82bf6dcdde1c31f642cfe22796488f7f",
-                  "url":"5.135.103.187/Emojicord-1.12.2-1.0.2.15-universal.jar"
+                  "url":"https://media.forgecdn.net/files/2817/231/Emojicord-1.12.2-1.0.2.15-universal.jar"
                }
             },
             {
@@ -325,7 +325,7 @@
                "artifact":{
                   "size":273967,
                   "MD5":"a4c3cae902cde29553c11db0d4eb1137",
-                  "url":"5.135.103.187/LittleLooter.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/LittleLooter.jar"
                }
             },
             {
@@ -335,7 +335,7 @@
                "artifact":{
                   "size":2444057,
                   "MD5":"7ec95c57ac1a224d6eb93bd370e4ac37",
-                  "url":"5.135.103.187/OptiFine.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/OptiFine.jar"
                }
             },
             {
@@ -345,7 +345,7 @@
                "artifact":{
                   "size":350466,
                   "MD5":"8176a7efec5202f9a18f5244b36a323f",
-                  "url":"5.135.103.187/SimpleDifficulty-1.12.2-0.2.4.jar"
+                  "url":"https://media.forgecdn.net/files/2877/165/SimpleDifficulty-1.12.2-0.2.4.jar"
                }
             },
             {
@@ -355,7 +355,7 @@
                "artifact":{
                   "size":876876,
                   "MD5":"1dfc67bc86e009e59f9c6628bcb5d2fd",
-                  "url":"5.135.103.187/oxygen-core-1.12.2-0.11.0.jar"
+                  "url":"https://media.forgecdn.net/files/2905/353/oxygen-core-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -365,7 +365,7 @@
                "artifact":{
                   "size":12056,
                   "MD5":"2bbb95597d7d1b18d2520ea1ff02a686",
-                  "url":"5.135.103.187/oxygen-cp-grand-economy-1.12.2-0.11.0.jar"
+                  "url":"https://media.forgecdn.net/files/2905/380/oxygen-cp-grand-economy-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -375,7 +375,7 @@
                "artifact":{
                   "size":118396,
                   "MD5":"c7a43333a85273690a11a6fe3cc64572",
-                  "url":"5.135.103.187/oxygen-groups-1.12.2-0.11.0.jar"
+                  "url":"https://media.forgecdn.net/files/2905/361/oxygen-groups-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -385,7 +385,7 @@
                "artifact":{
                   "size":143221,
                   "MD5":"248d7411fe515d4a239d35a2635cd4b5",
-                  "url":"5.135.103.187/oxygen-mail-1.12.2-0.11.0.jar"
+                  "url":"https://media.forgecdn.net/files/2905/363/oxygen-mail-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -395,7 +395,7 @@
                "artifact":{
                   "size":25111,
                   "MD5":"8bd24bedb96fe68838573bb2399a2013",
-                  "url":"5.135.103.187/oxygen-menu-1.12.2-0.11.0.jar"
+                  "url":"https://media.forgecdn.net/files/2905/366/oxygen-menu-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -405,7 +405,7 @@
                "artifact":{
                   "size":40987,
                   "MD5":"97bd84aed574cf30ba02ccf10cf97bda",
-                  "url":"5.135.103.187/oxygen-players-list-1.12.2-0.11.0.jar"
+                  "url":"https://media.forgecdn.net/files/2905/371/oxygen-players-list-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -415,7 +415,7 @@
                "artifact":{
                   "size":83210,
                   "MD5":"0841e802e2c26c7a44a47976edfc9369",
-                  "url":"5.135.103.187/oxygen-shop-1.12.2-0.11.0.jar"
+                  "url":"https://media.forgecdn.net/files/2905/372/oxygen-shop-1.12.2-0.11.0.jar"
                }
             },
             {
@@ -425,7 +425,7 @@
                "artifact":{
                   "size":7052,
                   "MD5":"241a28a767464fa15f9bd642c2d9f673",
-                  "url":"5.135.103.187/TexFix.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/TexFix.jar"
                }
             },
             {
@@ -435,7 +435,7 @@
                "artifact":{
                   "size":1753065,
                   "MD5":"99b5cc6a6f78cdf04c7c0e67fadb8585",
-                  "url":"5.135.103.187/Uplink.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/Uplink.jar"
                }
             },
             {
@@ -445,7 +445,7 @@
                "artifact":{
                   "size":17858641,
                   "MD5":"1eacaac0819f0bb52a9af96450455dd0",
-                  "url":"5.135.103.187/sound-1.0.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/sound-1.0.jar"
                }
             },
             {
@@ -455,7 +455,7 @@
                "artifact":{
                   "size":418983,
                   "MD5":"0f716df96ff28ec2a60f4db5c1f692ab",
-                  "url":"5.135.103.187/Xaeros_Minimap_FP1.19.5_Forge_1.12.jar"
+                  "url":"https://media.forgecdn.net/files/2853/878/Xaeros_Minimap_FP1.19.5_Forge_1.12.jar"
                }
             },
             {
@@ -466,7 +466,7 @@
                   "size":31544049,
                   "path":"Modularwarfare/arkaniaz-pack.zip",
                   "MD5":"f9e52daa8ec1a1cb7c4f547de565e6f0",
-                  "url":"5.135.103.187/arkaniaz-pack.zip"
+                  "url":"https://launcher.arkaniaz.fr/1305/arkaniaz-pack.zip"
                }
             },
             {
@@ -477,7 +477,18 @@
                   "size":341,
                   "path":"config/uplink.json",
                   "MD5":"ddca8ddcbe272d771ebd157719700f5c",
-                  "url":"5.135.103.187/Uplink.json"
+                  "url":"https://launcher.arkaniaz.fr/uplink.json"
+               }
+            },
+            {
+               "id":"config-sound",
+               "name":"config-sound",
+               "type":"File",
+               "artifact":{
+                  "size":5385,
+                  "path":"config/soundphysics.cfg",
+                  "MD5":"b9d00586962a110f381098ccd4a1e26b",
+                  "url":"https://launcher.arkaniaz.fr/1105/soundphysics.cfg"
                }
             }
          ]
@@ -510,7 +521,7 @@
                      "artifact":{
                         "size":32999,
                         "MD5":"934b2d91c7c5be4a49577c9e6b40e8da",
-                        "url":"5.135.103.187/launchwrapper-1.12.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
                      }
                   },
                   {
@@ -520,7 +531,7 @@
                      "artifact":{
                         "size":247787,
                         "MD5":"f5ad16c7f0338b541978b0430d51dc83",
-                        "url":"5.135.103.187/asm-all-5.2.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
                      }
                   },
                   {
@@ -530,7 +541,7 @@
                      "artifact":{
                         "size":248566,
                         "MD5":"f251ba666cccb260ff7215b2cbeee8d4",
-                        "url":"5.135.103.187/jline-2.13.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
                      }
                   },
                   {
@@ -540,7 +551,7 @@
                      "artifact":{
                         "size":1474672,
                         "MD5":"379c15c4f724421c6d5d7aecedaf87a6",
-                        "url":"5.135.103.187/scala-library-2.11.1.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
                      }
                   },
                   {
@@ -550,7 +561,7 @@
                      "artifact":{
                         "size":3076920,
                         "MD5":"7d89e952f2d5c74577310cd2c28e3f20",
-                        "url":"5.135.103.187/scala-compiler-2.11.1.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
                      }
                   },
                   {
@@ -560,7 +571,7 @@
                      "artifact":{
                         "size":21324,
                         "MD5":"04e3428b2600ace33c7ae2bf1f6c0a4c",
-                        "url":"5.135.103.187/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
                      }
                   },
                   {
@@ -570,7 +581,7 @@
                      "artifact":{
                         "size":7956,
                         "MD5":"ed9b1d27aba8ac4090a3749c4dfc895a",
-                        "url":"5.135.103.187/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
                      }
                   },
                   {
@@ -580,7 +591,7 @@
                      "artifact":{
                         "size":46140,
                         "MD5":"a8232db22a72a981de6b1399eb86dff7",
-                        "url":"5.135.103.187/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
                      }
                   },
                   {
@@ -590,7 +601,7 @@
                      "artifact":{
                         "size":85568,
                         "MD5":"2e50a7df17680daadacca69f07f8a16d",
-                        "url":"5.135.103.187/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
                      }
                   },
                   {
@@ -600,7 +611,7 @@
                      "artifact":{
                         "size":1070312,
                         "MD5":"84e5dc81c10e2bd74c579c9d0332fdd9",
-                        "url":"5.135.103.187/scala-reflect-2.11.1.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
                      }
                   },
                   {
@@ -610,7 +621,7 @@
                      "artifact":{
                         "size":736795,
                         "MD5":"1d360289e697022a3f57abaad344b28f",
-                        "url":"5.135.103.187/scala-swing_2.11-1.0.1.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
                      }
                   },
                   {
@@ -620,7 +631,7 @@
                      "artifact":{
                         "size":217812,
                         "MD5":"cc891b094a4c32dedc56bfefe9b072ff",
-                        "url":"5.135.103.187/scala-xml_2.11-1.0.2.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
                      }
                   },
                   {
@@ -630,7 +641,7 @@
                      "artifact":{
                         "size":746612,
                         "MD5":"25cb22c3078e9fb3f7a861c912924862",
-                        "url":"5.135.103.187/akka-actor_2.11-2.3.3.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
                      }
                   },
                   {
@@ -640,7 +651,7 @@
                      "artifact":{
                         "size":56636,
                         "MD5":"10ec4ccabc4e68aac9cf87165ead5d7d",
-                        "url":"5.135.103.187/config-1.2.1.jar.pack.xz"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
                      }
                   },
                   {
@@ -650,7 +661,7 @@
                      "artifact":{
                         "size":5762,
                         "MD5":"a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                        "url":"5.135.103.187/lzma-0.0.1.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
                      }
                   },
                   {
@@ -660,7 +671,7 @@
                      "artifact":{
                         "size":2523218,
                         "MD5":"8fc4d4e0129244f9fd39650c5f30feb2",
-                        "url":"5.135.103.187/trove4j-3.0.3.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
                      }
                   },
                   {
@@ -670,7 +681,7 @@
                      "artifact":{
                         "size":318956,
                         "MD5":"e5d2b7f46c4800a32f62ce75676a5710",
-                        "url":"5.135.103.187/vecmath-1.5.2.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
                      }
                   },
                   {
@@ -680,7 +691,7 @@
                      "artifact":{
                         "size":78175,
                         "MD5":"0a5ec84e23df9d7cfb4063bc55f2744c",
-                        "url":"5.135.103.187/jopt-simple-5.0.3.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
                      }
                   },
                   {
@@ -690,7 +701,7 @@
                      "artifact":{
                         "size":54961,
                         "MD5":"7741ebf29690ee7d9dde9cf4376347fc",
-                        "url":"5.135.103.187/maven-artifact-3.5.3.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
                      }
                   },
                   {
@@ -700,7 +711,7 @@
                      "artifact":{
                         "size":15098,
                         "MD5":"6eb9e61097bee3103a2fdc42746b76a4",
-                        "url":"5.135.103.187/MercuriusUpdater-1.12.2.jar"
+                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
                      }
                   }
                ]
@@ -849,4 +860,3 @@
          ]
       }
    ]
-}
