@@ -223,7 +223,7 @@
                      "artifact":{
                         "size":15098,
                         "MD5":"6eb9e61097bee3103a2fdc42746b76a4",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
+                        "url":"http://5.135.103.187/MercuriusUpdater-1.12.2.jar"
                      }
                   }
                ]
@@ -488,7 +488,7 @@
                   "size":5385,
                   "path":"config/soundphysics.cfg",
                   "MD5":"b9d00586962a110f381098ccd4a1e26b",
-                  "url":"https://launcher.arkaniaz.fr/1105/soundphysics.cfg"
+                  "url":"http://5.135.103.187/soundphysics.cfg"
                }
             }
          ]
