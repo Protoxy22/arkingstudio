@@ -73,7 +73,7 @@
                      "artifact":{
                         "size":3076920,
                         "MD5":"7d89e952f2d5c74577310cd2c28e3f20",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
+                        "url":"http://5.135.103.187/scala-compiler-2.11.1.jar.pack.xz"
                      }
                   },
                   {
@@ -83,7 +83,7 @@
                      "artifact":{
                         "size":21324,
                         "MD5":"04e3428b2600ace33c7ae2bf1f6c0a4c",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
+                        "url":"http://5.135.103.187/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
                      }
                   },
                   {
@@ -103,7 +103,7 @@
                      "artifact":{
                         "size":46140,
                         "MD5":"a8232db22a72a981de6b1399eb86dff7",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
+                        "url":"http://5.135.103.187/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
                      }
                   },
                   {
@@ -113,7 +113,7 @@
                      "artifact":{
                         "size":85568,
                         "MD5":"2e50a7df17680daadacca69f07f8a16d",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
+                        "url":"http://5.135.103.187/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
                      }
                   },
                   {
@@ -123,7 +123,7 @@
                      "artifact":{
                         "size":1070312,
                         "MD5":"84e5dc81c10e2bd74c579c9d0332fdd9",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
+                        "url":"http://5.135.103.187/scala-reflect-2.11.1.jar.pack.xz"
                      }
                   },
                   {
