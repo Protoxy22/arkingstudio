@@ -153,7 +153,7 @@
                      "artifact":{
                         "size":746612,
                         "MD5":"25cb22c3078e9fb3f7a861c912924862",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
+                        "url":"http://5.135.103.187/akka-actor_2.11-2.3.3.jar.pack.xz"
                      }
                   },
                   {
@@ -163,7 +163,7 @@
                      "artifact":{
                         "size":56636,
                         "MD5":"10ec4ccabc4e68aac9cf87165ead5d7d",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
+                        "url":"http://5.135.103.187/config-1.2.1.jar.pack.xz"
                      }
                   },
                   {
@@ -173,7 +173,7 @@
                      "artifact":{
                         "size":5762,
                         "MD5":"a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                        "url":"http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
+                        "url":"http://5.135.103.187/lzma-0.0.1.jar"
                      }
                   },
                   {
