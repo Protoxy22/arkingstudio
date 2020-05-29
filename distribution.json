@@ -429,13 +429,13 @@
                }
             },
             {
-               "id":"ArkaniaZ:Xaeros_Minimap:1.0",
-               "name":"ArkaniaZ - Xaeros_Minimap",
+               "id":"ArkaniaZ:minimap:1.0",
+               "name":"ArkaniaZ - minimap",
                "type":"ForgeMod",
                "artifact":{
                   "size":266234,
                   "MD5":"25c7204141cfc28a6446fac17951ac4a",
-                  "url":"https://chocolateminecraft.com/mods2/worldmap/XaerosWorldMap_1.6.2_Forge_1.12.jar"
+                  "url":"https://launcher.arkaniaz.fr/mods/map.jar"
                }
             },
             {
