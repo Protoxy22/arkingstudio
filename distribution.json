@@ -369,6 +369,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:oxygen-merchant:1.0",
+               "name":"ArkaniaZ - oxygen-merchant",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":84586,
+                  "MD5":"0abeeff8c890c6ac89326f46e07f32fe",
+                  "url":"https://media.forgecdn.net/files/2905/368/oxygen-merchants-1.12.2-0.11.0.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:oxygen-mail:1.0",
                "name":"ArkaniaZ - oxygen-mail",
                "type":"ForgeMod",
