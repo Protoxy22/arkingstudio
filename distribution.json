@@ -224,7 +224,7 @@
                "type":"ForgeMod",
                "artifact":{
                   "size":15703109,
-                  "MD5":"e33d31e5969edd8459da17d91e35957b",
+                  "MD5":"e4239e0108ccd79ef266c3c43209b7f1",
                   "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZMenu-1.0.jar"
                }
             },
@@ -478,6 +478,28 @@
                   "path":"config/soundphysics.cfg",
                   "MD5":"b9d00586962a110f381098ccd4a1e26b",
                   "url":"http://5.135.103.187/soundphysics.cfg"
+               }
+            },
+            {
+               "id":"config-touch",
+               "name":"config-touch",
+               "type":"File",
+               "artifact":{
+                  "size":3152,
+                  "path":"/options.txt",
+                  "MD5":"01a648c4abdfe75e487669994ed306ff",
+                  "url":"https://launcher.arkaniaz.fr/options.txt"
+               }
+            },
+            {
+               "id":"config-graphique",
+               "name":"config-graphique",
+               "type":"File",
+               "artifact":{
+                  "size":1447,
+                  "path":"/optionsof.txt",
+                  "MD5":"3fd65b3297c9b9e0244470f69b70ed65",
+                  "url":"https://launcher.arkaniaz.fr/optionsof.txt"
                }
             }
          ]
