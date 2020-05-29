@@ -249,16 +249,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:oxygen-market:1.0",
-               "name":"oxygen-market",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":175569,
-                  "MD5":"d01626b9998fd319951c7a8b3d62505b",
-                  "url":"http://5.135.103.187/oxygen-market-1.12.2-0.11.0.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:oxygen-grandeconomy:1.0",
                "name":"oxygen-grandeconomy",
                "type":"ForgeMod",
@@ -269,23 +259,13 @@
                }
             },
             {
-               "id":"ArkaniaZ:3dsound:1.0",
-               "name":"3dsound",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":30822,
-                  "MD5":"7ed3abba5cbec1ee7e062c9caabfc2ad",
-                  "url":"http://5.135.103.187/ArkaniaZS.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:ArkaniaZMod:1.0",
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
                "artifact":{
-                  "size":20455628,
-                  "MD5":"757d46a0281e8f1994c2523afae4d883",
-                  "url":"https://launcher.arkaniaz.fr/1705/ArkaniaZMod.jar"
+                  "size":20456986,
+                  "MD5":"c32398e83e4ac326783b6a7016bc1beb",
+                  "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZMod-1.0.jar"
                }
             },
             {
@@ -359,26 +339,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:oxygen-groups:1.0",
-               "name":"ArkaniaZ - oxygen-groups",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":118396,
-                  "MD5":"c7a43333a85273690a11a6fe3cc64572",
-                  "url":"http://5.135.103.187/oxygen-groups-1.12.2-0.11.0.jar"
-               }
-            },
-            {
-               "id":"ArkaniaZ:oxygen-merchant:1.0",
-               "name":"ArkaniaZ - oxygen-merchant",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":84586,
-                  "MD5":"0abeeff8c890c6ac89326f46e07f32fe",
-                  "url":"https://media.forgecdn.net/files/2905/368/oxygen-merchants-1.12.2-0.11.0.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:oxygen-mail:1.0",
                "name":"ArkaniaZ - oxygen-mail",
                "type":"ForgeMod",
@@ -439,6 +399,26 @@
                }
             },
             {
+               "id":"ArkaniaZ:vehicle:1.0",
+               "name":"ArkaniaZ - vehicle",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":2139906,
+                  "MD5":"276818770667c1bff569d92287c53d95",
+                  "url":"https://media.forgecdn.net/files/2967/287/vehicle-mod-0.44.1-1.12.2.jar"
+               }
+            },
+            {
+               "id":"ArkaniaZ:obfuscate:1.0",
+               "name":"ArkaniaZ - obfuscate",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":129099,
+                  "MD5":"a5d3ac71ec8762fe72a91465de6d30a3",
+                  "url":"https://media.forgecdn.net/files/2916/310/obfuscate-0.4.2-1.12.2.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:sound:1.0",
                "name":"ArkaniaZ - Sound",
                "type":"ForgeMod",
@@ -453,9 +433,9 @@
                "name":"ArkaniaZ - Xaeros_Minimap",
                "type":"ForgeMod",
                "artifact":{
-                  "size":418983,
-                  "MD5":"0f716df96ff28ec2a60f4db5c1f692ab",
-                  "url":"http://5.135.103.187/Xaeros_Minimap_FP1.19.5_Forge_1.12.jar"
+                  "size":266234,
+                  "MD5":"25c7204141cfc28a6446fac17951ac4a",
+                  "url":"https://chocolateminecraft.com/mods2/worldmap/XaerosWorldMap_1.6.2_Forge_1.12.jar"
                }
             },
             {
@@ -463,21 +443,10 @@
                "name":"config-minimap",
                "type":"File",
                "artifact":{
-                  "size":31718989,
+                  "size":31918975,
                   "path":"Modularwarfare/arkaniaz-pack.zip",
-                  "MD5":"d7fd069a4f0b335db2e5183ffd8c4bf8",
-                  "url":"https://launcher.arkaniaz.fr/1705/arkaniaz-pack.zip"
-               }
-            },
-            {
-               "id":"config-sound",
-               "name":"config-sound",
-               "type":"File",
-               "artifact":{
-                  "size":5385,
-                  "path":"config/soundphysics.cfg",
-                  "MD5":"b9d00586962a110f381098ccd4a1e26b",
-                  "url":"http://5.135.103.187/soundphysics.cfg"
+                  "MD5":"9a0e9a0865388952b183d8aaf8a55156",
+                  "url":"https://launcher.arkaniaz.fr/mods/arkaniaz-pack.zip"
                }
             }
          ]
