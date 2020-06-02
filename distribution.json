@@ -675,13 +675,13 @@
                ]
             },
             {
-               "id":"PokiCube:Pixelmon:1.0",
+               "id":"PokiCube:Pixelmon:2.0",
                "name":"Pokicube",
                "type":"ForgeMod",
                "artifact":{
-                  "size":357857778,
-                  "MD5":"279d462b41feb37f4805ded9b1605bbf",
-                  "url":"https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.12.2-7.2.2-universal.jar"
+                  "size":376209200,
+                  "MD5":"5a1f943dc72a6cae49bc4f1f395cb0ad",
+                  "url":"https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.12.2-7.3.1-universal.jar"
                }
             },
             {
