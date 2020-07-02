@@ -269,6 +269,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:fps:1.0",
+               "name":"fps",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size": 1025896,
+                  "MD5":"a74aaab68100e03f54e35d1007d50169",
+                  "url":"https://media.forgecdn.net/files/2915/154/VanillaFix-1.0.10-150.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:ArkaniaZBackpack:1.0",
                "name":"ArkaniaZBackpack",
                "type":"ForgeMod",
