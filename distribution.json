@@ -478,6 +478,17 @@
                   "MD5":"8634f15e49cb2ef4500a38d5e2d4fe40",
                   "url":"https://launcher.arkaniaz.fr/arkaniaz.zip"
                }
+            },
+            {
+               "id":"config-map",
+               "name":"config-map",
+               "type":"File",
+               "artifact":{
+                  "size":4161,
+                  "path":"Modularwarfare/arkaniaz-pack.zip",
+                  "MD5":"e685fee0c0de8d1fc985efc1ec974530",
+                  "url":"https://launcher.arkaniaz.fr/mapwriter.cfg"
+               }
             }
          ]
       },
