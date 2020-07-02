@@ -473,6 +473,17 @@
                "name":"config-minimap",
                "type":"File",
                "artifact":{
+                  "size":4161,
+                  "path":"config/mapwriter.cfg",
+                  "MD5":"e685fee0c0de8d1fc985efc1ec974530",
+                  "url":"https://launcher.arkaniaz.fr/mapwriter.cfg"
+               }
+            }
+            {
+               "id":"content-pack",
+               "name":"content-pack",
+               "type":"File",
+               "artifact":{
                   "size":32765854,
                   "path":"Modularwarfare/arkaniaz-pack.zip",
                   "MD5":"8634f15e49cb2ef4500a38d5e2d4fe40",
