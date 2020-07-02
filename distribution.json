@@ -463,9 +463,9 @@
                "name":"ArkaniaZ - minimap",
                "type":"ForgeMod",
                "artifact":{
-                  "size":266234,
-                  "MD5":"25c7204141cfc28a6446fac17951ac4a",
-                  "url":"https://launcher.arkaniaz.fr/mods/map.jar"
+                  "size":516073,
+                  "MD5":"fc3ad89ff602ccf9e6131751d656a362",
+                  "url":"https://media.forgecdn.net/files/2510/933/MapWriter-1.12.2-2.8.2.jar"
                }
             },
             {
