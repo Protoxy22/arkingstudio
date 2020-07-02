@@ -469,17 +469,6 @@
                }
             },
             {
-               "id":"config-minimap",
-               "name":"config-minimap",
-               "type":"File",
-               "artifact":{
-                  "size":4161,
-                  "path":"config/mapwriter.cfg",
-                  "MD5":"e685fee0c0de8d1fc985efc1ec974530",
-                  "url":"https://launcher.arkaniaz.fr/mapwriter.cfg"
-               }
-            },
-            {
                "id":"config-pack",
                "name":"config-pack",
                "type":"File",
