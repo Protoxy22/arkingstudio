@@ -480,8 +480,8 @@
                }
             },
             {
-               "id":"content-pack",
-               "name":"content-pack",
+               "id":"config-pack",
+               "name":"config-pack",
                "type":"File",
                "artifact":{
                   "size":32765854,
