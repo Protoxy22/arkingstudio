@@ -269,6 +269,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:map:1.0",
+               "name":"Map",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":516073,
+                  "MD5":"fc3ad89ff602ccf9e6131751d656a362",
+                  "url":"https://media.forgecdn.net/files/2510/933/MapWriter-1.12.2-2.8.2.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:fps:1.0",
                "name":"fps",
                "type":"ForgeMod",
