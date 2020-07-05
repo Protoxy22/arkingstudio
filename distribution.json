@@ -480,6 +480,17 @@
                }
             },
             {
+               "id":"config-waypoint",
+               "name":"config-waypoint",
+               "type":"File",
+               "artifact":{
+                  "size":277,
+                  "path":"saves/mapwriter_mp_worlds/5_135_103_187_25565/mapwriter.cfg",
+                  "MD5":"86de85da839d5fa8f64ce47f5a4810f4",
+                  "url":"https://launcher.arkaniaz.fr/waypoint.cfg"
+               }
+            },
+            {
                "id":"config-map",
                "name":"config-map",
                "type":"File",
