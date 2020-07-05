@@ -363,9 +363,9 @@
                "name":"Map",
                "type":"ForgeMod",
                "artifact":{
-                  "size":516073,
-                  "MD5":"fc3ad89ff602ccf9e6131751d656a362",
-                  "url":"https://media.forgecdn.net/files/2510/933/MapWriter-1.12.2-2.8.2.jar"
+                  "size":516070,
+                  "MD5":"946d5d04c3dfd7ecab542d6850f18377",
+                  "url":"https://media.forgecdn.net/files/2501/537/MapWriter-1.12.2-2.8.1.jar"
                }
             },
             {
