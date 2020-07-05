@@ -484,9 +484,9 @@
                "name":"config-map",
                "type":"File",
                "artifact":{
-                  "size":4161,
+                  "size":4173,
                   "path":"Modularwarfare/arkaniaz-pack.zip",
-                  "MD5":"e685fee0c0de8d1fc985efc1ec974530",
+                  "MD5":"b301c4afcf0bffe89f4bed3ad2f5679a",
                   "url":"https://launcher.arkaniaz.fr/mapwriter.cfg"
                }
             }
