@@ -495,9 +495,9 @@
                "name":"config-map",
                "type":"File",
                "artifact":{
-                  "size":4173,
+                  "size":4174,
                   "path":"config/mapwriter.cfg",
-                  "MD5":"b301c4afcf0bffe89f4bed3ad2f5679a",
+                  "MD5":"49b56a67983fba73cd2dd4d70a89f087",
                   "url":"http://5.135.103.187/mapwriter.cfg"
                }
             }
