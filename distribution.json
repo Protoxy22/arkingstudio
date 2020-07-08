@@ -484,9 +484,9 @@
                "name":"config-waypoint",
                "type":"File",
                "artifact":{
-                  "size":277,
+                  "size":404,
                   "path":"saves/mapwriter_mp_worlds/5_135_103_187_25565/mapwriter.cfg",
-                  "MD5":"86de85da839d5fa8f64ce47f5a4810f4",
+                  "MD5":"0eea481926e8f8ecd86ca8bdedbbe34e",
                   "url":"http://5.135.103.187/waypoint.cfg"
                }
             },
