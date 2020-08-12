@@ -289,16 +289,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:LittleLooter:1.0",
-               "name":"ArkaniaZ - LittleLooter",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":273967,
-                  "MD5":"a4c3cae902cde29553c11db0d4eb1137",
-                  "url":"http://5.135.103.187/LittleLooter.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:OptiFine:1.0",
                "name":"ArkaniaZ - OptiFine",
                "type":"ForgeMod",
@@ -353,9 +343,9 @@
                "name":"Map",
                "type":"ForgeMod",
                "artifact":{
-                  "size":516070,
-                  "MD5":"946d5d04c3dfd7ecab542d6850f18377",
-                  "url":"https://media.forgecdn.net/files/2501/537/MapWriter-1.12.2-2.8.1.jar"
+                  "size":306815,
+                  "MD5":"a11b6ce9d2510fe0717b470ea8000149",
+                  "url":"https://media.forgecdn.net/files/3030/175/XaerosWorldMap_1.10.0_Forge_1.12.jar"
                }
             },
             {
