@@ -440,25 +440,36 @@
                }
             },
             {
-               "id":"config-waypoint",
-               "name":"config-waypoint",
+               "id":"config-texture1",
+               "name":"config-texture1",
                "type":"File",
                "artifact":{
-                  "size":404,
-                  "path":"saves/mapwriter_mp_worlds/5_135_103_187_25565/mapwriter.cfg",
-                  "MD5":"0eea481926e8f8ecd86ca8bdedbbe34e",
-                  "url":"http://5.135.103.187/waypoint.cfg"
+                  "size":323,
+                  "path":"config/oxygen/data/server/store/offers/textures/placeholder_small.png",
+                  "MD5":"08782eafd17974162007173e7aae4766",
+                  "url":"https://launcher.arkaniaz.fr/placeholder_small.png"
                }
             },
             {
-               "id":"config-map",
-               "name":"config-map",
+               "id":"config-texture2",
+               "name":"config-texture2",
                "type":"File",
                "artifact":{
-                  "size":4174,
-                  "path":"config/mapwriter.cfg",
-                  "MD5":"49b56a67983fba73cd2dd4d70a89f087",
-                  "url":"http://5.135.103.187/mapwriter.cfg"
+                  "size":1118,
+                  "path":"config/oxygen/data/server/store/offers/textures/placeholder_big.png",
+                  "MD5":"69bcc9944cd47f44c7c3cbf4ea6a63ef",
+                  "url":"https://launcher.arkaniaz.fr/placeholder_big.png"
+               }
+            },
+            {
+               "id":"config-offer",
+               "name":"config-offer",
+               "type":"File",
+               "artifact":{
+                  "size":7283,
+                  "path":"config/oxygen/data/server/store/offers/faction.json",
+                  "MD5":"59243cc2ca9697aa42c12737f59473f5",
+                  "url":"https://launcher.arkaniaz.fr/faction.json"
                }
             }
          ]
