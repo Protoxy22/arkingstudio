@@ -471,6 +471,17 @@
                   "MD5":"b97086601cc29e25563fd4ca8f6cd9be",
                   "url":"https://launcher.arkaniaz.fr/faction.json"
                }
+            },
+            {
+               "id":"config-emoji",
+               "name":"config-emoji",
+               "type":"File",
+               "artifact":{
+                  "size":6974,
+                  "path":"emojicord/dictionary/371406640349708299.json",
+                  "MD5":"ab5c53098e1120b0593addadf5c11e22",
+                  "url":"https://launcher.arkaniaz.fr/371406640349708299.json"
+               }
             }
          ]
       },
