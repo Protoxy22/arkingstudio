@@ -229,6 +229,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:decoration:1.0",
+               "name":"decoration",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":3278980,
+                  "MD5":"d24d76afb32c877af1113c42d4e920a9",
+                  "url":"https://media.forgecdn.net/files/2954/965/Soviet+Era+0.4+b26.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:ArkaniaZVocal:1.0",
                "name":"ArkaniaZVocal",
                "type":"ForgeMod",
