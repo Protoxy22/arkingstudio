@@ -461,6 +461,17 @@
                }
             },
             {
+               "id":"config-server",
+               "name":"config-server",
+               "type":"File",
+               "artifact":{
+                  "size":66,
+                  "path":"ArkaniaZ/mod_config.json",
+                  "MD5":"243701e2b1edd639317b2c8c65d3eef6",
+                  "url":"https://launcher.arkaniaz.fr/mod_config.json"
+               }
+            },
+            {
                "id":"config-texture2",
                "name":"config-texture2",
                "type":"File",
