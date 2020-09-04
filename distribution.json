@@ -225,7 +225,7 @@
                "artifact":{
                   "size":15841333,
                   "MD5":"17ac390bbc09f6d0af623184d707806c",
-                  "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZMenu_a.jar"
+                  "url":"https://5.196.128.180/ArkaniaZMenu-1.1.jar"
                }
             },
             {
@@ -275,7 +275,7 @@
                "artifact":{
                   "size":20876273,
                   "MD5":"9ae5f13beaf35520fe7a00f3e8d38e03",
-                  "url":"https://launcher.arkaniaz.fr/ArkaniaZMod-1.0.jar"
+                  "url":"https://5.196.128.180/ArkaniaZMod-1.0.jar"
                }
             },
             {
@@ -325,7 +325,7 @@
                "artifact":{
                   "size":906783,
                   "MD5":"f479b3137e29009c0c7650ea2652c02f",
-                  "url":"https://launcher.arkaniaz.fr/mods/oxygen-core-1.12.2-0.11.4.jar"
+                  "url":"https://5.196.128.180/oxygen-core-1.0.jar"
                }
             },
             {
@@ -425,7 +425,7 @@
                "artifact":{
                   "size":2081409,
                   "MD5":"3b3d9c3512cbaa5c857f2c60ec0accc5",
-                  "url":"https://launcher.arkaniaz.fr/mods/Rich.jar"
+                  "url":"https://5.196.128.180/Uplink-1.0.jar"
                }
             },
             {
@@ -446,40 +446,7 @@
                   "size":36298874,
                   "path":"Modularwarfare/arkaniaz-pack.zip",
                   "MD5":"ebd5b6eb38bc941e009c508dc99b72c4",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz.zip"
-               }
-            },
-            {
-               "id":"config-texture1",
-               "name":"config-texture1",
-               "type":"File",
-               "artifact":{
-                  "size":323,
-                  "path":"config/oxygen/data/server/store/offers/textures/placeholder_small.png",
-                  "MD5":"08782eafd17974162007173e7aae4766",
-                  "url":"https://launcher.arkaniaz.fr/placeholder_small.png"
-               }
-            },
-            {
-               "id":"config-server",
-               "name":"config-server",
-               "type":"File",
-               "artifact":{
-                  "size":66,
-                  "path":"ArkaniaZ/mod_config.json",
-                  "MD5":"243701e2b1edd639317b2c8c65d3eef6",
-                  "url":"https://launcher.arkaniaz.fr/mod_config.json"
-               }
-            },
-            {
-               "id":"config-texture2",
-               "name":"config-texture2",
-               "type":"File",
-               "artifact":{
-                  "size":1118,
-                  "path":"config/oxygen/data/server/store/offers/textures/placeholder_big.png",
-                  "MD5":"69bcc9944cd47f44c7c3cbf4ea6a63ef",
-                  "url":"https://launcher.arkaniaz.fr/placeholder_big.png"
+                  "url":"https://5.196.128.180/arkaniaz.zip"
                }
             },
             {
@@ -490,7 +457,7 @@
                   "size":6974,
                   "path":"emojicord/dictionary/371406640349708299.json",
                   "MD5":"ab5c53098e1120b0593addadf5c11e22",
-                  "url":"https://launcher.arkaniaz.fr/371406640349708299.json"
+                  "url":"https://5.196.128.180/371406640349708299.json"
                }
             }
          ]
