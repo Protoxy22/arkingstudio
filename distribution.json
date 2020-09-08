@@ -443,10 +443,10 @@
                "name":"config-pack",
                "type":"File",
                "artifact":{
-                  "size":36683661,
+                  "size":36643249,
                   "path":"Modularwarfare/arkaniaz-pack.zip",
-                  "MD5":"7c4b86579d8f505e925a6223ddee0175",
-                  "url":"https://launcher.arkaniaz.fr/arkaniazb.zip"
+                  "MD5":"dab01bc0068778f79dc796e0437aca7f",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz.zip"
                }
             },
             {
