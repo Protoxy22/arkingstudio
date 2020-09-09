@@ -219,13 +219,13 @@
                ]
             },
             {
-               "id":"ArkaniaZ:ArkaniaZMenu:1.1",
+               "id":"ArkaniaZ:ArkaniaZMenu:1.2",
                "name":"ArkaniaZMenu",
                "type":"ForgeMod",
                "artifact":{
                   "size":15751918,
                   "MD5":"89aac3d930432649a58e8d76d99249c7",
-                  "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZMenu.jar"
+                  "url":"https://launcher.arkaniaz.fr/ArkaniaZMenu.jar"
                }
             },
             {
