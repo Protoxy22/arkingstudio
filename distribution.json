@@ -239,6 +239,26 @@
                }
             },
             {
+               "id":"ArkaniaZ:vehicle:1.0",
+               "name":"Vehicle",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":2139906,
+                  "MD5":"276818770667c1bff569d92287c53d95",
+                  "url":"https://media.forgecdn.net/files/2967/287/vehicle-mod-0.44.1-1.12.2.jar"
+               }
+            },
+            {
+               "id":"ArkaniaZ:Obfuscate:1.0",
+               "name":"Obfuscate",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":129099,
+                  "MD5":"a5d3ac71ec8762fe72a91465de6d30a3",
+                  "url":"https://media.forgecdn.net/files/2916/310/obfuscate-0.4.2-1.12.2.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:ArkaniaZVocal:1.0",
                "name":"ArkaniaZVocal",
                "type":"ForgeMod",
