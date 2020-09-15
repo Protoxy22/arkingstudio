@@ -211,9 +211,9 @@
                      "name":"MercuriusUpdater",
                      "type":"Library",
                      "artifact":{
-                        "size":15098,
-                        "MD5":"6eb9e61097bee3103a2fdc42746b76a4",
-                        "url":"http://5.196.128.180/MercuriusUpdater-1.12.2.jar"
+                        "size":38808,
+                        "MD5":"3d2ff1b3a4dabad1476cec8ede64a33e",
+                        "url":"https://media.forgecdn.net/files/2481/890/Mercurius-1.12.2.jar"
                      }
                   }
                ]
