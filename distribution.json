@@ -419,16 +419,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:TexFix:1.0",
-               "name":"ArkaniaZ - TexFix",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":7052,
-                  "MD5":"241a28a767464fa15f9bd642c2d9f673",
-                  "url":"http://5.196.128.180/TexFix.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:sound:1.0",
                "name":"ArkaniaZ - Sound",
                "type":"ForgeMod",
