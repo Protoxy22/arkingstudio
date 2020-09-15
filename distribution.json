@@ -239,6 +239,36 @@
                }
             },
             {
+               "id":"ArkaniaZ:Emoji:1.0",
+               "name":"emoji",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":479235,
+                  "MD5":"82bf6dcdde1c31f642cfe22796488f7f",
+                  "url":"http://5.196.128.180/Emojicord-1.12.2-1.0.2.15-universal.jar"
+               }
+            },
+            {
+               "id":"ArkaniaZ:TexFix:1.0",
+               "name":"ArkaniaZ - TexFix",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":7052,
+                  "MD5":"241a28a767464fa15f9bd642c2d9f673",
+                  "url":"http://5.196.128.180/TexFix.jar"
+               }
+            },
+            {
+               "id":"ArkaniaZ:Uplink:1.0",
+               "name":"ArkaniaZ - Uplink",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":2081409,
+                  "MD5":"3b3d9c3512cbaa5c857f2c60ec0accc5",
+                  "url":"https://launcher.arkaniaz.fr/mods/Rich.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:vehicle:1.0",
                "name":"Vehicle",
                "type":"ForgeMod",
