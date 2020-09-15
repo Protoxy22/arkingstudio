@@ -439,16 +439,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:Uplink:1.0",
-               "name":"ArkaniaZ - Uplink",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":2081409,
-                  "MD5":"3b3d9c3512cbaa5c857f2c60ec0accc5",
-                  "url":"https://launcher.arkaniaz.fr/mods/Rich.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:sound:1.0",
                "name":"ArkaniaZ - Sound",
                "type":"ForgeMod",
