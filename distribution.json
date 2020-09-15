@@ -309,16 +309,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:Emoji:1.0",
-               "name":"emoji",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":479235,
-                  "MD5":"82bf6dcdde1c31f642cfe22796488f7f",
-                  "url":"http://5.196.128.180/Emojicord-1.12.2-1.0.2.15-universal.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:OptiFine:1.0",
                "name":"ArkaniaZ - OptiFine",
                "type":"ForgeMod",
