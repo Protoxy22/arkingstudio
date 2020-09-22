@@ -333,8 +333,8 @@
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
                "artifact":{
-                  "size":21232485 ,
-                  "MD5":"76f5595a42c588785e5d18abc8d14fa8",
+                  "size":21200344,
+                  "MD5":"0bc4fec956ddf592ca4f9fed28a690ff",
                   "url":"https://launcher.arkaniaz.fr/ArkaniaZMod.jar"
                }
             },
