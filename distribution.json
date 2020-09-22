@@ -219,16 +219,6 @@
                ]
             },
             {
-               "id":"ArkaniaZ:phosphore:1.0",
-               "name":"phosphore",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":920264,
-                  "MD5":"13f62131ab2fff6212301ee70f6bf5d8",
-                  "url":"https://media.forgecdn.net/files/2919/497/phosphor-forge-mc1.12.2-0.2.7-universal.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:ArkaniaZMenu:1.2",
                "name":"ArkaniaZMenu",
                "type":"ForgeMod",
