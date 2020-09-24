@@ -309,6 +309,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:npc-custom:1.0",
+               "name":"npc-custom",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":9911871,
+                  "MD5":"3ab1a5c4b069d574631da5bc1880ebf7",
+                  "url":"https://media.forgecdn.net/files/2996/912/CustomNPCs_1.12.2-(05Jul20).jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:oxygen-grandeconomy:1.0",
                "name":"oxygen-grandeconomy",
                "type":"ForgeMod",
