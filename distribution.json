@@ -459,16 +459,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:sound:1.0",
-               "name":"ArkaniaZ - Sound",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":17858641,
-                  "MD5":"1eacaac0819f0bb52a9af96450455dd0",
-                  "url":"http://5.196.128.180/sound-1.0.jar"
-               }
-            },
-            {
                "id":"config-pack",
                "name":"config-pack",
                "type":"File",
