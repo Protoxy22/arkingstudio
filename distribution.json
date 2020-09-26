@@ -229,6 +229,26 @@
                }
             },
             {
+               "id":"ArkaniaZ:forgelin:1.0",
+               "name":"forgelin",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":6278399,
+                  "MD5":"2da79fce72265eab0541e565636d389d",
+                  "url":"https://media.forgecdn.net/files/2785/465/Forgelin-1.8.4.jar"
+               }
+            },
+            {
+               "id":"ArkaniaZ:foliage:1.2",
+               "name":"foliage",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":926081,
+                  "MD5":"e05a720c5900b9bac4e01179abe8eef6",
+                  "url":"https://media.forgecdn.net/files/2631/951/BetterFoliage-MC1.12-2.2.0.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:decoration:1.0",
                "name":"decoration",
                "type":"ForgeMod",
