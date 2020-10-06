@@ -289,6 +289,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:exchange:1.0",
+               "name":"Exchange",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":73774,
+                  "MD5":"915d174f8d838085c413627279c9f2d8",
+                  "url":"https://media.forgecdn.net/files/2974/798/oxygen-exchange-1.12.2-0.11.1.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:ArkaniaZVocal:1.0",
                "name":"ArkaniaZVocal",
                "type":"ForgeMod",
