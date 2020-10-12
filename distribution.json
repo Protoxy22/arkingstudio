@@ -484,9 +484,9 @@
                "name":"config-waypoint",
                "type":"File",
                "artifact":{
-                  "size":534,
+                  "size":613,
                   "path":"XaeroWaypoints/Multiplayer_5.196.128.180/dim%0/mw$default_1.txt",
-                  "MD5":"08782eafd17974162007173e7aae4766",
+                  "MD5":"d3f637869d1ebc8469648d2bd2a09946",
                   "url":"https://launcher.arkaniaz.fr/mw$default_1.txt"
                }
             },
