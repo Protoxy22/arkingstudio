@@ -3,6 +3,14 @@
    "java":{
       "oracle":"http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
    },
+   "untrackedFiles": [
+      {
+         "appliesTo": ["files"],
+         "patterns": [
+            "XaeroWaypoints/*"
+         ]
+      }
+    ]
    "rss":"https://studio.arking.fr/launcher/news.rss",
    "servers":[
       {
