@@ -3,6 +3,7 @@
    "java":{
       "oracle":"http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
    },
+   "rss":"https://studio.arking.fr/launcher/news.rss",
    "untrackedFiles": [
       {
          "appliesTo": ["files"],
@@ -11,7 +12,6 @@
          ]
       }
     ]
-   "rss":"https://studio.arking.fr/launcher/news.rss",
    "servers":[
       {
          "id":"arkaniaz",
