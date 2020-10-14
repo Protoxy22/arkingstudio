@@ -8,7 +8,7 @@
       {
          "appliesTo": ["files"],
          "patterns": [
-            "XaeroWaypoints/*"
+            "XaeroWaypoints/Multiplayer_5.196.128.180/dim%0/**.txt"
          ]
       }
     ],
