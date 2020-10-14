@@ -4,14 +4,6 @@
       "oracle":"http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
    },
    "rss":"https://studio.arking.fr/launcher/news.rss",
-   "untrackedFiles": [
-      {
-         "appliesTo": ["files"],
-         "patterns": [
-            "XaeroWaypoints/Multiplayer_5.196.128.180/dim%0/**.txt"
-         ]
-      }
-    ],
    "servers":[
       {
          "id":"arkaniaz",
