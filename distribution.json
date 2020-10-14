@@ -333,9 +333,9 @@
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
                "artifact":{
-                  "size":21471570,
-                  "MD5":"88acd5b5c672a597d828ffc35be5152a",
-                  "url":"https://launcher.arkaniaz.fr/ArkaniaZMod.jar"
+                  "size":21545624,
+                  "MD5":"9620aff04342b573b5660bf9b65fc23d",
+                  "url":"https://launcher.arkaniaz.fr/ArkaniaZMod_1410.jar"
                }
             },
             {
@@ -473,10 +473,10 @@
                "name":"config-pack",
                "type":"File",
                "artifact":{
-                  "size":41146763,
+                  "size":42723599,
                   "path":"Modularwarfare/arkaniaz-pack.zip",
-                  "MD5":"dfa53b86c90e0eb8026249f4bbb02714",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz.zip"
+                  "MD5":"95af39afa3d469ea6222014fee037df5",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz_1410.zip"
                }
             },
             {
