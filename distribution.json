@@ -517,9 +517,9 @@
                "type":"File",
                "artifact":{
                   "size":1434,
-                  "path":"knownkeys.txt",
+                  "path":"config/defaultoptions/keybindings.txt",
                   "MD5":"1fb2d16bfbc14123626e117004a4eabf",
-                  "url":"https://launcher.arkaniaz.fr/knownkeys.txt"
+                  "url":"https://launcher.arkaniaz.fr/keybindings.txt"
                }
             },
             {
