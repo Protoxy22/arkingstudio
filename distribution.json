@@ -388,6 +388,16 @@
                   "url":"https://media.forgecdn.net/files/2983/953/oxygen-market-1.12.2-0.11.2.jar"
                }
             },
+             {
+               "id":"ArkaniaZ:defaultoption:1.0",
+               "name":"ArkaniaZ - defaultoption",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":15056,
+                  "MD5":"5510673c0fad1e3b6617b3d97d54b3d5",
+                  "url":"https://media.forgecdn.net/files/2624/732/DefaultOptions_1.12.2-9.2.8.jar"
+               }
+            },
             {
                "id":"ArkaniaZ:oxygen-currency:1.0",
                "name":"ArkaniaZ - oxygen-currency",
