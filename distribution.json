@@ -516,10 +516,32 @@
                "name":"config-key",
                "type":"File",
                "artifact":{
-                  "size":1394,
+                  "size":1434,
                   "path":"knownkeys.txt",
-                  "MD5":"060a8dfd3a3c0df1b7c12365aab85cc6",
+                  "MD5":"1fb2d16bfbc14123626e117004a4eabf",
                   "url":"https://launcher.arkaniaz.fr/knownkeys.txt"
+               }
+            },
+            {
+               "id":"config-option",
+               "name":"config-option",
+               "type":"File",
+               "artifact":{
+                  "size":1432,
+                  "path":"config/defaultoptions/options.txt",
+                  "MD5":"f0c7c0c60c292d874e2125d75ede5881",
+                  "url":"https://launcher.arkaniaz.fr/options.txt"
+               }
+            },
+            {
+               "id":"config-optionof",
+               "name":"config-optionof",
+               "type":"File",
+               "artifact":{
+                  "size":1394,
+                  "path":"config/defaultoptions/optionsof.txt",
+                  "MD5":"060a8dfd3a3c0df1b7c12365aab85cc6",
+                  "url":"https://launcher.arkaniaz.fr/optionsof.txt"
                }
             },
             {
