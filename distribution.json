@@ -512,6 +512,17 @@
                }
             },
             {
+               "id":"config-key",
+               "name":"config-key",
+               "type":"File",
+               "artifact":{
+                  "size":1394,
+                  "path":"knownkeys.txt",
+                  "MD5":"060a8dfd3a3c0df1b7c12365aab85cc6",
+                  "url":"https://launcher.arkaniaz.fr/knownkeys.txt"
+               }
+            },
+            {
                "id":"config-server",
                "name":"config-server",
                "type":"File",
