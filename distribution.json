@@ -516,9 +516,9 @@
                "name":"config-key",
                "type":"File",
                "artifact":{
-                  "size":1434,
+                  "size":1906,
                   "path":"config/defaultoptions/keybindings.txt",
-                  "MD5":"1fb2d16bfbc14123626e117004a4eabf",
+                  "MD5":"2c81f5f0cf9e27c57c07eee352fd5cd6",
                   "url":"https://launcher.arkaniaz.fr/keybindings.txt"
                }
             },
