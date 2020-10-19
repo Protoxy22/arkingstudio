@@ -469,16 +469,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:item:1.0",
-               "name":"ArkaniaZ - item",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":471292,
-                  "MD5":"1f4474187b22bc1112f2bd6b6fb6bc1e",
-                  "url":"https://media.forgecdn.net/files/2491/98/ItemPhysic+Lite+1.3.7+mc1.12.2.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:oxygen-store:1.0",
                "name":"ArkaniaZ - oxygen-store",
                "type":"ForgeMod",
