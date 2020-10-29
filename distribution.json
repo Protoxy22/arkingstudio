@@ -269,26 +269,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:vehicle:1.0",
-               "name":"Vehicle",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":2139906,
-                  "MD5":"276818770667c1bff569d92287c53d95",
-                  "url":"https://media.forgecdn.net/files/2967/287/vehicle-mod-0.44.1-1.12.2.jar"
-               }
-            },
-            {
-               "id":"ArkaniaZ:Obfuscate:1.0",
-               "name":"Obfuscate",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":129099,
-                  "MD5":"a5d3ac71ec8762fe72a91465de6d30a3",
-                  "url":"https://media.forgecdn.net/files/2916/310/obfuscate-0.4.2-1.12.2.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:ArkaniaZVocal:1.0",
                "name":"ArkaniaZVocal",
                "type":"ForgeMod",
@@ -333,9 +313,9 @@
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
                "artifact":{
-                  "size":21594909,
-                  "MD5":"650b146626251326927f72ade13edb88",
-                  "url":"https://launcher.arkaniaz.fr/ArkaniaZMod_2510.jar"
+                  "size":21602458,
+                  "MD5":"27dc29b46797265b96a867e2f3e321c4",
+                  "url":"https://launcher.arkaniaz.fr/ArkaniaZMod_2910.jar"
                }
             },
             {
@@ -483,10 +463,10 @@
                "name":"config-pack",
                "type":"File",
                "artifact":{
-                  "size":43314902,
+                  "size":43317095,
                   "path":"Modularwarfare/arkaniaz-pack.zip",
-                  "MD5":"03e248aec79f6f8330ad971c963a8d29",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz_2510.zip"
+                  "MD5":"7d0dd490cfe78d571cc6d8b66c2b0f4b",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz_2910.zip"
                }
             },
             {
