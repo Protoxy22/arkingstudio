@@ -313,9 +313,9 @@
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
                "artifact":{
-                  "size":21608439,
-                  "MD5":"49554bac4c5ccd6c9fd7507be58c58c0",
-                  "url":"https://launcher.arkaniaz.fr/ArkaniaZMod_2910_c.jar"
+                  "size":21607821,
+                  "MD5":"8c3faf3476ce842171d1d4e63e447642",
+                  "url":"https://launcher.arkaniaz.fr/ArkaniaZMod_3110.jar"
                }
             },
             {
@@ -533,6 +533,17 @@
                   "path":"ArkaniaZ/mod_config.json",
                   "MD5":"243701e2b1edd639317b2c8c65d3eef6",
                   "url":"https://launcher.arkaniaz.fr/mod_config.json"
+               }
+            },
+            {
+               "id":"config-shader",
+               "name":"config-shader",
+               "type":"File",
+               "artifact":{
+                  "size":2265109,
+                  "path":"shaderpacks/chocapik.zip",
+                  "MD5":"53d11828d5f5ef04ed925657aae3a54f",
+                  "url":"https://launcher.arkaniaz.fr/shader.zip"
                }
             },
             {
