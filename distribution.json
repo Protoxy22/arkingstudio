@@ -269,16 +269,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:ArkaniaZVocal:1.0",
-               "name":"ArkaniaZVocal",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":1269371,
-                  "MD5":"5301f58be88662275f78f2923e212c67",
-                  "url":"https://launcher.arkaniaz.fr/ModularVoiceChat-BETA-1.5.1-all.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:oxygen-daily:1.0",
                "name":"oxygen-daily",
                "type":"ForgeMod",
@@ -313,9 +303,9 @@
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
                "artifact":{
-                  "size":21701714,
-                  "MD5":"a3fca71c62b5a43d92d6a016530653a8",
-                  "url":"https://launcher.arkaniaz.fr/ArkaniaZMod_0511.jar"
+                  "size":21787125,
+                  "MD5":"10461eb80a365abce0e7e2b0d5cdc4e4",
+                  "url":"https://launcher.arkaniaz.fr/ArkaniaZMod_0811.jar"
                }
             },
             {
@@ -463,10 +453,10 @@
                "name":"config-pack",
                "type":"File",
                "artifact":{
-                  "size":43376435,
+                  "size":46389817,
                   "path":"Modularwarfare/arkaniaz-pack.zip",
-                  "MD5":"c9f9e4cb8a977694a023adb2685684bd",
-                  "url":"https://launcher.arkaniaz.fr/arkaniaz0711.zip"
+                  "MD5":"f0ccf1f3477dba7eaf1c291aa878d322",
+                  "url":"https://launcher.arkaniaz.fr/arkaniaz0811.zip"
                }
             },
             {
