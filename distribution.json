@@ -559,6 +559,17 @@
                }
             }
          ]
+      },
+      {
+         "id":"pokicube",
+         "name":"PokiCube Mod",
+         "description":"Serveur PokiCube (PixelMod)",
+         "icon":"https://studio.arking.fr/img/pokicube.png",
+         "version":"0.0.0",
+         "address":"pokicube.eu",
+         "minecraftVersion":"1.12.2",
+         "mainServer":false,
+         "autoconnect":false,
       }
    ]
 }
