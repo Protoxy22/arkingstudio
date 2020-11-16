@@ -399,6 +399,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:mobend:1.0",
+               "name":"Map",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":703346,
+                  "MD5":"d77d93d13d89c2ec4ff10887519daab8",
+                  "url":"https://media.forgecdn.net/files/2984/182/MoBends_1.12.2-1.0.0-beta-20.06.20.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:oxygen-mail:1.0",
                "name":"ArkaniaZ - oxygen-mail",
                "type":"ForgeMod",
@@ -556,6 +566,17 @@
                   "path":"emojicord/dictionary/371406640349708299.json",
                   "MD5":"ab5c53098e1120b0593addadf5c11e22",
                   "url":"https://launcher.arkaniaz.fr/371406640349708299.json"
+               }
+            },
+            {
+               "id":"config-mobends",
+               "name":"config-mobends",
+               "type":"File",
+               "artifact":{
+                  "size":443,
+                  "path":"config/mobends.cfg",
+                  "MD5":"9a662417df200890823c20fd39487bc9",
+                  "url":"https://launcher.arkaniaz.fr/mobends.cfg"
                }
             }
          ]
