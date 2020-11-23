@@ -229,16 +229,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:decoration:1.0",
-               "name":"decoration",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":3300789,
-                  "MD5":"464ffefbfe276db56e7faf9fab492b47",
-                  "url":"https://launcher.arkaniaz.fr/decoration.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:Emoji:1.0",
                "name":"emoji",
                "type":"ForgeMod",
