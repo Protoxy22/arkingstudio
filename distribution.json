@@ -205,16 +205,6 @@
                         "MD5":"7741ebf29690ee7d9dde9cf4376347fc",
                         "url":"http://5.196.128.180/maven-artifact-3.5.3.jar"
                      }
-                  },
-                  {
-                     "id":"net.minecraftforge:MercuriusUpdater:1.12.2",
-                     "name":"MercuriusUpdater",
-                     "type":"Library",
-                     "artifact":{
-                        "size":38808,
-                        "MD5":"3d2ff1b3a4dabad1476cec8ede64a33e",
-                        "url":"https://media.forgecdn.net/files/2481/890/Mercurius-1.12.2.jar"
-                     }
                   }
                ]
             },
@@ -236,16 +226,6 @@
                   "size":407314,
                   "MD5":"0688ab2c92a1b0fb41b4291164afecf1",
                   "url":"https://media.forgecdn.net/files/2972/941/Emojicord-1.12.2-1.1.1.39-universal.jar"
-               }
-            },
-            {
-               "id":"ArkaniaZ:TexFix:1.0",
-               "name":"ArkaniaZ - TexFix",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":7052,
-                  "MD5":"241a28a767464fa15f9bd642c2d9f673",
-                  "url":"http://5.196.128.180/TexFix.jar"
                }
             },
             {
@@ -273,9 +253,9 @@
                "name":"npc-custom",
                "type":"ForgeMod",
                "artifact":{
-                  "size":9947595,
-                  "MD5":"0b32c32bdce239f03f0b6423f792c183",
-                  "url":"https://launcher.arkaniaz.fr/npc-custom.jar"
+                  "size":9911871,
+                  "MD5":"3ab1a5c4b069d574631da5bc1880ebf7",
+                  "url":"https://media.forgecdn.net/files/2996/912/CustomNPCs_1.12.2-(05Jul20).jar"
                }
             },
             {
@@ -313,9 +293,9 @@
                "name":"ArkaniaZ - OptiFine",
                "type":"ForgeMod",
                "artifact":{
-                  "size":2444057,
-                  "MD5":"7ec95c57ac1a224d6eb93bd370e4ac37",
-                  "url":"http://5.196.128.180/OptiFine.jar"
+                  "size":2598821,
+                  "MD5":"043ac1db6f7441ea4cf31bcb621aff0b",
+                  "url":"https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_F5.jar&x=2a3064cbf15e50699761cc0773ed423a"
                }
             },
             {
@@ -323,9 +303,9 @@
                "name":"ArkaniaZ - Thirst",
                "type":"ForgeMod",
                "artifact":{
-                  "size":350466,
-                  "MD5":"8176a7efec5202f9a18f5244b36a323f",
-                  "url":"http://5.196.128.180/SimpleDifficulty-1.12.2-0.2.4.jar"
+                  "size":409687,
+                  "MD5":"9cc1d794d35f3168888b8c3e2c1aa5c1",
+                  "url":"https://media.forgecdn.net/files/3109/975/SimpleDifficulty-1.12.2-0.3.4.jar"
                }
             },
             {
@@ -373,9 +353,9 @@
                "name":"Mapplus",
                "type":"ForgeMod",
                "artifact":{
-                  "size":571583,
-                  "MD5":"9dd26611c65d9828d3d93f7e29e26ac3",
-                  "url":"https://media.forgecdn.net/files/3074/716/Xaeros_Minimap_FP20.25.0_Forge_1.12.jar"
+                  "size":607935,
+                  "MD5":"fb5eab89b37d0dc8c0094895c9aa0284",
+                  "url":"https://media.forgecdn.net/files/3116/845/Xaeros_Minimap_FP20.27.3_Forge_1.12.jar"
                }
             },
             {
@@ -383,9 +363,9 @@
                "name":"Map",
                "type":"ForgeMod",
                "artifact":{
-                  "size":313835,
-                  "MD5":"53bfbb6d5664471a2cdd8a1952cd409e",
-                  "url":"https://media.forgecdn.net/files/3063/324/XaerosWorldMap_1.11.0_Forge_1.12.jar"
+                  "size":317181,
+                  "MD5":"550114bfbaca01fd9fe76d29aecda910",
+                  "url":"https://media.forgecdn.net/files/3132/583/XaerosWorldMap_1.11.4_Forge_1.12.jar"
                }
             },
             {
