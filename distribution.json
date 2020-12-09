@@ -219,6 +219,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:AntiCheat:1.0",
+               "name":"ArkaniaZAntiCheat",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":25073,
+                  "MD5":"f630f4862dc0d25de04887c496c086a2",
+                  "url":"https://launcher.arkaniaz.fr/AntiCheat.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:Emoji:1.0",
                "name":"emoji",
                "type":"ForgeMod",
