@@ -279,23 +279,13 @@
                }
             },
             {
-               "id":"ArkaniaZ:helico:1.0",
-               "name":"helico",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":3824688,
-                  "MD5":"6af040e2dd53c0560e7bf2501174492c",
-                  "url":"https://media.forgecdn.net/files/3131/191/Immersive+Vehicles-1.12.2-19.11.0.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:engine:1.0",
                "name":"engine",
                "type":"ForgeMod",
                "artifact":{
-                  "size":11468780,
-                  "MD5":"4e29c3e33ce57df4852f1f53e075f3d2",
-                  "url":"https://launcher.arkaniaz.fr/helico.jar"
+                  "size":15474111,
+                  "MD5":"9831625a7dd6d0a826829992f8273dc1",
+                  "url":"https://launcher.arkaniaz.fr/engine.jar"
                }
             },
             {
