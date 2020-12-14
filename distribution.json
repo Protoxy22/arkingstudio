@@ -289,8 +289,8 @@
                }
             },
             {
-               "id":"ArkaniaZ:helicoengine:1.0",
-               "name":"helicoengine",
+               "id":"ArkaniaZ:engine:1.0",
+               "name":"engine",
                "type":"ForgeMod",
                "artifact":{
                   "size":11468780,
