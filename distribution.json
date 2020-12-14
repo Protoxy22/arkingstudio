@@ -279,6 +279,26 @@
                }
             },
             {
+               "id":"ArkaniaZ:helico:1.0",
+               "name":"helico",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":3824688,
+                  "MD5":"6af040e2dd53c0560e7bf2501174492c",
+                  "url":"https://media.forgecdn.net/files/3131/191/Immersive+Vehicles-1.12.2-19.11.0.jar"
+               }
+            },
+            {
+               "id":"ArkaniaZ:helicoengine:1.0",
+               "name":"helicoengine",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":11468780,
+                  "MD5":"4e29c3e33ce57df4852f1f53e075f3d2",
+                  "url":"https://media.forgecdn.net/files/3137/841/Miszko%27s_Vehicle_Pack_04.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:ArkaniaZMod:2.0",
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
