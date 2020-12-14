@@ -283,9 +283,9 @@
                "name":"engine",
                "type":"ForgeMod",
                "artifact":{
-                  "size":15474111,
-                  "MD5":"9831625a7dd6d0a826829992f8273dc1",
-                  "url":"https://launcher.arkaniaz.fr/engine.jar"
+                  "size":3824688,
+                  "MD5":"6af040e2dd53c0560e7bf2501174492c",
+                  "url":"https://media.forgecdn.net/files/3131/191/Immersive+Vehicles-1.12.2-19.11.0.jar"
                }
             },
             {
@@ -491,6 +491,17 @@
                   "path":"config/defaultoptions/options.txt",
                   "MD5":"f0c7c0c60c292d874e2125d75ede5881",
                   "url":"https://launcher.arkaniaz.fr/options.txt"
+               }
+            },
+            {
+               "id":"content-pack",
+               "name":"content-pack",
+               "type":"File",
+               "artifact":{
+                  "size":11468780,
+                  "path":"mods/contentpack.jar",
+                  "MD5":"4e29c3e33ce57df4852f1f53e075f3d2",
+                  "url":"https://media.forgecdn.net/files/3137/841/Miszko%27s_Vehicle_Pack_04.jar"
                }
             },
             {
