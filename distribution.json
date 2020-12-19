@@ -259,16 +259,6 @@
                }
             },
             {
-               "id":"ArkaniaZ:vocal:1.0",
-               "name":"vocal",
-               "type":"ForgeMod",
-               "artifact":{
-                  "size":422146,
-                  "MD5":"67e04cd66f53d44626f7454eb1f428b5",
-                  "url":"https://media.forgecdn.net/files/3096/282/Voice+Chat+Reloaded-1.2.4.jar"
-               }
-            },
-            {
                "id":"ArkaniaZ:npc-custom:1.0",
                "name":"npc-custom",
                "type":"ForgeMod",
