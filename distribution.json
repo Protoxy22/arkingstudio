@@ -567,6 +567,17 @@
                }
             },
             {
+               "id":"content-pack",
+               "name":"content-pack",
+               "type":"File",
+               "artifact":{
+                  "size":11468780,
+                  "path":"mods/contentpack.jar",
+                  "MD5":"4e29c3e33ce57df4852f1f53e075f3d2",
+                  "url":"https://media.forgecdn.net/files/3137/841/Miszko%27s_Vehicle_Pack_04.jar"
+               }
+            },
+            {
                "id":"config-texture2",
                "name":"config-texture2",
                "type":"File",
