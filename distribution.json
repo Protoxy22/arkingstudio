@@ -239,6 +239,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:Emoji:1.0",
+               "name":"emoji",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":407314,
+                  "MD5":"0688ab2c92a1b0fb41b4291164afecf1",
+                  "url":"https://media.forgecdn.net/files/2972/941/Emojicord-1.12.2-1.1.1.39-universal.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:Uplink:1.0",
                "name":"ArkaniaZ - Uplink",
                "type":"ForgeMod",
@@ -329,13 +339,23 @@
                }
             },
             {
-               "id":"ArkaniaZ:ccore:1.0",
-               "name":"ArkaniaZ - Thirst",
+               "id":"ArkaniaZ:revive:1.0",
+               "name":"ArkaniaZ - revive",
                "type":"ForgeMod",
                "artifact":{
-                  "size":209370,
-                  "MD5":"52ff5141aa493d08898824b0c421998c",
-                  "url":"https://media.forgecdn.net/files/3128/357/CreativeCore_v2.0.10_mc1.16.4.jar"
+                  "size":5133122,
+                  "MD5":"560af834481ff71a01b5464c69d1ea31",
+                  "url":"https://media.forgecdn.net/files/3133/826/PlayerRevive_v1.2.38_mc1.12.2.jar"
+               }
+            },
+            {
+               "id":"ArkaniaZ:ccore:1.0",
+               "name":"ArkaniaZ - core",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":1179376,
+                  "MD5":"02c162358c916a21c466d18e86cf909d",
+                  "url":"https://media.forgecdn.net/files/3097/498/CreativeCore_v1.10.34_mc1.12.2.jar"
                }
             },
             {
