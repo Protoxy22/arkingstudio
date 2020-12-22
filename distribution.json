@@ -329,6 +329,16 @@
                }
             },
             {
+               "id":"ArkaniaZ:ccore:1.0",
+               "name":"ArkaniaZ - Thirst",
+               "type":"ForgeMod",
+               "artifact":{
+                  "size":209370,
+                  "MD5":"52ff5141aa493d08898824b0c421998c",
+                  "url":"https://media.forgecdn.net/files/3128/357/CreativeCore_v2.0.10_mc1.16.4.jar"
+               }
+            },
+            {
                "id":"ArkaniaZ:Thirst:1.0",
                "name":"ArkaniaZ - Thirst",
                "type":"ForgeMod",
